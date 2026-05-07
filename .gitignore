@@ -1,0 +1,67 @@
+# IA para Todos — .gitignore
+
+# Sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editores
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node (caso use ferramentas de geração de PDF/site)
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.local
+
+# Python (scripts utilitários)
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Arquivos de build
+_site/
+dist/
+build/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dados sensíveis (NUNCA commitar dados de alunos)
+dados-alunos/
+registros-pessoais/
+*.csv
+*.xlsx
+# Exceção: planilhas de exemplo que fazem parte do material
+!recursos-professores/**/*.xlsx
+!recursos-professores/**/*.csv
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.orig
+
+# Logs
+*.log
+logs/
+
+# PDFs gerados automaticamente (gerados pelo script de build)
+_pdfs-gerados/
+
+# Uploads temporários
+uploads/
+temp/
