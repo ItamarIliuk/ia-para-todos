@@ -157,7 +157,7 @@ Veja: [`LICENSE`](LICENSE)
 
 **LABRIOT — Laboratório de Robótica e IoT**
 Universidade Tecnológica Federal do Paraná — Campus Ponta Grossa
-Prof. Dr. Itamar Iliuk (Coordenador)
+Profa. Dra. Itamar Iliuk (Coordenadora)
 📧 Entre em contato via Issues ou Discussions neste repositório
 
 **Multicortex** — Desenvolvedora do Projeto IA para Todos (Pendrive Bootável)
