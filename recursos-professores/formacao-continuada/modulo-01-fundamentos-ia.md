@@ -1,194 +1,168 @@
-# 📚 Formação Continuada — Módulo 1: Fundamentos de IA para Educadores
+# 📚 Formação Continuada — Módulo 1: "Fundamentos de Inteligência Artificial para Educadores"
 
-> *Você não precisa ser programador para ensinar IA. Mas entender os fundamentos vai te dar muito mais confiança.*
+> *"Você não precisa saber programar para ensinar sobre IA. Mas precisa entender o suficiente para fazer boas perguntas."*
 
-**Carga horária:** 4 horas | **Modalidade:** Autoestudo ou grupo de estudos
+**Carga horária:** 4 horas | **Módulo:** 1 de 4
 
 ---
 
 ## Objetivos deste Módulo
 
-Ao concluir este módulo, você será capaz de:
-- Explicar o que é IA com precisão e sem jargão para qualquer audiência
-- Identificar exemplos de IA no cotidiano escolar e doméstico
-- Compreender como a IA aprende (machine learning) em termos gerais
-- Reconhecer os principais riscos e oportunidades da IA na educação
-- Sentir-se preparado(a) para conduzir as atividades do projeto com segurança
+- Compreender o que é IA e como ela funciona em termos conceituais
+- Distinguir os principais tipos de IA e suas aplicações
+- Reconhecer exemplos de IA no cotidiano escolar e pessoal
+- Desmistificar medos e expectativas exageradas sobre a tecnologia
+- Estabelecer vocabulário básico para ensinar sobre IA com confiança
 
 ---
 
-## Parte 1 — O que é Inteligência Artificial (1 hora de leitura)
+## Parte 1 — O que é IA? Uma história rápida (1 hora)
 
-### 1.1 Uma história em três atos
+### 1.1 A ideia tem 70 anos
 
-**Ato 1 — O começo (anos 1950-1980)**
+A Inteligência Artificial não nasceu com o ChatGPT. O termo foi cunhado em 1956, numa conferência no Dartmouth College nos EUA. Desde então, passou por ciclos de euforia e decepção — os chamados "invernos da IA".
 
-Tudo começou com uma pergunta simples feita pelo matemático Alan Turing em 1950: *"As máquinas podem pensar?"*
+**Por que agora é diferente?**
+- Dados em escala sem precedente (toda a internet como material de treinamento)
+- Poder computacional exponencialmente maior e mais barato
+- Avanços em arquiteturas de redes neurais (especialmente o *transformer*, 2017)
 
-Durante décadas, cientistas tentaram criar máquinas que pensassem como humanos — programando manualmente todas as regras. Resultado: funcionava para problemas simples, mas falhava em qualquer coisa mais complexa. Afinal, como você programa uma máquina para reconhecer um gato? Você listaria: "tem quatro patas, tem pelo, tem bigode..." — mas e os gatos sem rabo? E os sem pelo? Seria impossível cobrir todas as variações.
+### 1.2 Os três tipos principais que professores precisam conhecer
 
-**Ato 2 — A virada (anos 1980-2010)**
+**IA Estreita (Narrow AI):** Faz uma coisa muito bem. É tudo que existe hoje.
+- Reconhecimento facial do celular → só reconhece rostos
+- GPS → só calcula rotas
+- Chatbots → só geram texto conversacional
+- Filtro de spam → só filtra e-mails
 
-A grande virada foi perceber que, em vez de programar as regras, a gente podia **mostrar exemplos** e deixar a máquina descobrir as regras sozinha. Isso é o **Aprendizado de Máquina** (Machine Learning).
+**IA Geral (AGI):** Faria qualquer tarefa cognitiva como um humano. Não existe ainda. Muito debatida. Alguns pesquisadores acham que está próxima; outros acham que ainda está décadas distante.
 
-É como ensinar uma criança a reconhecer frutas — você não explica todas as características biológicas, você mostra: "isso é uma maçã, isso é uma banana, isso é uma uva..." até ela aprender.
+**IA Superinteligente (ASI):** Superaria humanos em todas as dimensões. Existe apenas na ficção científica por enquanto.
 
-**Ato 3 — A era atual (2010-hoje)**
+> *"Quando alunos perguntarem se a IA vai dominar o mundo, a resposta honesta é: o que existe hoje são ferramentas muito poderosas mas estreitas. Elas não têm objetivos próprios, não sentem nada, e não existem sem eletricidade e servidores."*
 
-Com o aumento absurdo de dados disponíveis (fotos, textos, vídeos online) e computadores muito mais poderosos, surgiram as **Redes Neurais Profundas** (Deep Learning). Elas aprendem de forma tão eficiente que hoje superam humanos em tarefas específicas como reconhecimento de imagens, tradução de idiomas e jogos como xadrez e Go.
+### 1.3 Como a IA aprende
 
-E então surgiu a **IA Generativa** — IA que não apenas reconhece, mas **cria**: textos, imagens, músicas, código. É o que está por trás do ChatGPT, do DALL-E, do Midjourney.
+Existem três formas principais:
 
-### 1.2 Como a IA aprende: a analogia da Receita
+**Aprendizado Supervisionado:** Mostrar muitos exemplos com respostas corretas. A IA aprende o padrão.
+- Exemplo: mostrar 1 milhão de fotos de gatos com a etiqueta "gato" → IA aprende a reconhecer gatos
 
-Pense assim:
+**Aprendizado por Reforço:** A IA tenta ações, recebe recompensas ou punições, e aprende o que funciona.
+- Exemplo: a IA do jogo aprende jogando contra si mesma — cada vitória é uma recompensa
 
-```
-Método tradicional de programação:
-Programador → escreve todas as regras → Computador segue as regras
-
-Machine Learning (como a IA funciona):
-Muitos exemplos → Computador descobre os padrões → Computador aplica o padrão em novos casos
-```
-
-**Exemplo prático — Detector de spam:**
-
-*Jeito antigo:* programador escreveria regras como "se o email contém 'clique aqui' E 'ganhe dinheiro', é spam".
-
-*Machine Learning:* você mostra milhares de emails marcados como "spam" e "não spam". A IA descobre sozinha os padrões que diferencia os dois — palavras, remetentes, horários, formatos. Muito mais eficaz e adaptável.
-
-### 1.3 Tipos de IA que você já usa (e talvez não sabia)
-
-| Você usa... | A IA faz... | Tipo de IA |
-|------------|------------|-----------|
-| Sugestão de próxima palavra no teclado | Prevê qual palavra vem a seguir | IA preditiva |
-| Reconhecimento facial para desbloquear celular | Identifica seu rosto | Visão computacional |
-| Recomendação do Netflix/YouTube | Prevê o que você vai gostar | IA de recomendação |
-| Filtro de spam do email | Classifica emails | IA de classificação |
-| Google Tradutor | Traduz entre idiomas | Processamento de linguagem natural |
-| Diagnóstico por imagem em hospitais | Identifica doenças em raios-X | Visão computacional médica |
-| GPS com tempo real | Prevê rotas e trânsito | IA de otimização |
+**Aprendizado Não Supervisionado:** A IA encontra padrões nos dados sem etiquetas.
+- Exemplo: sistema de recomendação que agrupa usuários com gostos parecidos sem que ninguém tenha definido os grupos
 
 ---
 
-## Parte 2 — IA Generativa: o que mudou (45 min)
+## Parte 2 — IA Generativa: o que mudou (1 hora)
 
-### 2.1 O que é IA Generativa?
+### 2.1 O que é diferente na IA generativa
 
-A IA Generativa é a geração mais recente e mais impactante de IA. Diferente das IAs anteriores (que classificavam, recomendavam, previam), a IA generativa **cria conteúdo novo**:
+As IAs que domina o debate público desde 2022 — ChatGPT, Gemini, Claude, Stable Diffusion — são **generativas**: elas criam conteúdo novo (texto, imagem, código, áudio, vídeo) em vez de apenas classificar ou prever.
 
-- **Texto:** ChatGPT, Gemini, Claude, Llama — respondem perguntas, escrevem textos, criam código
-- **Imagens:** DALL-E, Midjourney, Stable Diffusion — criam imagens a partir de descrições
-- **Áudio:** Suno, Udio — criam músicas completas com letra
-- **Vídeo:** Sora, Runway — criam vídeos a partir de texto
-- **Código:** GitHub Copilot — ajuda programadores a escrever código
+Isso é possível graças ao **Transformer**, uma arquitetura de rede neural criada pelo Google em 2017. Sem entrar em matemática: o Transformer é muito bom em entender relações entre palavras em contextos longos — o que permite gerar texto coerente e contextualizado.
 
-### 2.2 Como funciona (sem entrar em matemática)
+### 2.2 O que é um "modelo de linguagem grande" (LLM)
 
-Os modelos de linguagem (como o ChatGPT) foram treinados com **enormes quantidades de texto** da internet, livros, artigos — literalmente centenas de bilhões de palavras. A IA aprendeu os padrões da linguagem humana tão bem que consegue gerar texto que parece escrito por uma pessoa.
+Um LLM (Large Language Model) como o GPT-4 ou o Claude foi treinado para responder a uma pergunta básica: *"Dada esta sequência de palavras, qual palavra vem a seguir?"*
 
-**Mas atenção:** a IA não "entende" o que está falando no sentido humano. Ela é extremamente boa em prever qual palavra vem depois de outra. Por isso:
+Isso parece simples — mas quando você faz isso com bilhões de parâmetros e centenas de bilhões de textos, emerge a capacidade de:
+- Responder perguntas
+- Resumir textos
+- Traduzir idiomas
+- Escrever código
+- Simular conversas
 
-- ✅ É excelente para redigir textos, resumir, explicar
-- ❌ Pode inventar fatos (chamamos isso de "alucinação")
-- ❌ Pode ter preconceitos que estavam nos dados de treinamento
-- ❌ Tem data de corte — não sabe de eventos recentes
+**Mas sem nunca "entender" no sentido humano.** O modelo não tem experiências, não sente, não tem crenças. Ele é extremamente bom em imitar padrões linguísticos.
 
-### 2.3 O que muda para a educação?
+### 2.3 O que a IA generativa faz bem — e o que não faz
 
-**Desafios:**
-- Alunos podem usar IA para fazer trabalhos sem aprender
-- Informações falsas podem parecer convincentes
-- Dependência excessiva pode reduzir o desenvolvimento de habilidades de escrita e raciocínio
+| Faz bem | Não faz (ou faz mal) |
+|---------|---------------------|
+| Resumir textos longos | Calcular matemática complexa com confiança |
+| Gerar rascunhos de texto | Raciocinar de forma verdadeiramente nova |
+| Responder perguntas gerais | Saber eventos após sua data de treinamento |
+| Traduzir idiomas | Entender ironia, sarcasmo e contexto cultural profundo |
+| Gerar código funcional | Ter certeza sobre quando está errada |
+| Brainstorm e geração de ideias | Produzir informação factual sem inventar |
 
-**Oportunidades:**
-- Tutoria personalizada e acessível para todos
-- Alunos com dificuldades têm mais recursos de apoio
-- Novo tipo de letramento crítico (questionar o que a IA produz)
-- Criatividade amplificada para expressão artística e científica
+> *"**Alucinação** é o termo técnico para quando a IA inventa informações com aparência de verdade e confiança. Esse é um dos maiores desafios práticos para uso educacional. A IA não sabe quando está errada."*
 
 ---
 
-## Parte 3 — Ética em IA: o que todo professor precisa saber (1 hora)
+## Parte 3 — IA no Cotidiano Escolar e Pessoal (1 hora)
 
-### 3.1 Cinco problemas éticos que acontecem agora
+### 3.1 IAs que vocês já usam (sem saber)
 
-**1. Viés algorítmico**
-IAs aprendem com dados humanos — e os dados humanos carregam séculos de preconceito. Uma IA de reconhecimento facial que erra mais em pessoas negras não é "neutra" — ela reproduz desigualdades. Uma IA que seleciona currículos pode discriminar mulheres se foi treinada com dados históricos onde homens dominavam certos cargos.
+Faça esse levantamento com os participantes:
 
-**2. Privacidade e dados**
-Cada vez que usamos um serviço de IA, estamos contribuindo com dados. O que acontece com esses dados? Quem os acessa? Por quanto tempo ficam armazenados? Para crianças, isso é ainda mais delicado — a LGPD protege dados de menores de forma especial.
+| Você usa? | IA por trás |
+|----------|------------|
+| Google Maps / Waze | IA de rotas, previsão de trânsito |
+| Google Photos | IA de reconhecimento de rostos e objetos |
+| Corretor automático do celular | IA de predição de texto |
+| Filtro de spam do e-mail | IA de classificação |
+| Recomendações do YouTube/Spotify | IA de perfil comportamental |
+| Tradução automática (Google Tradutor) | IA de tradução neural |
+| Assistente de voz (Siri, Google, Alexa) | IA de reconhecimento de fala + LLM |
 
-**3. Desinformação e deepfakes**
-A IA pode criar vídeos, fotos e áudios falsos extremamente realistas. Isso cria um desafio enorme para a educação midiática: como saber o que é real?
+### 3.2 IAs específicas para educação
 
-**4. Concentração de poder**
-Poucas empresas (majoritariamente americanas e chinesas) controlam os maiores modelos de IA. Isso levanta questões sobre soberania digital, dependência tecnológica e quem define os valores que a IA aprende.
+- **Google Classroom** — sugestões automáticas de feedback (beta)
+- **Kahoot / Quizizz** — adaptação automática de dificuldade
+- **Duolingo** — personalização da trilha de aprendizagem
+- **Grammarly** — sugestões de escrita (LLM)
+- **Teachable Machine** — ferramenta para criar classificadores de imagem (gratuita, sem conta, funciona no navegador)
 
-**5. Impacto no trabalho**
-A IA vai automatizar muitas tarefas atualmente feitas por humanos. Não é possível saber exatamente quais — mas é certo que profissões vão mudar. A educação tem papel crucial em preparar jovens para esse cenário.
+### 3.3 Desmistificando medos comuns
 
-### 3.2 O que fazer em sala
-
-Não é necessário resolver esses problemas na sala de aula. O objetivo é **criar a consciência** de que eles existem, e que cidadãos informados podem cobrar soluções.
-
-A Caixa de Ética presente em cada atividade deste projeto é exatamente esse espaço — um momento estruturado de reflexão coletiva, sem respostas prontas, com perguntas genuínas.
-
----
-
-## Parte 4 — Autoavaliação e Próximos Passos (15 min)
-
-### Questionário de autoavaliação
-
-Responda honestamente para si mesmo(a):
-
-1. **Antes deste módulo, como eu me sentia em relação à IA?**
-   - [ ] Com muito medo ou ansiedade
-   - [ ] Curioso(a) mas inseguro(a)
-   - [ ] Neutro(a)
-   - [ ] Curioso(a) e relativamente confortável
-
-2. **Agora, como me sinto?**
-   *(Escreva livremente)*
-
-3. **O que ainda me preocupa?**
-   *(Liste suas dúvidas — elas são válidas!)*
-
-4. **O que posso fazer na próxima semana para avançar?**
-   - [ ] Ler mais um documento deste repositório
-   - [ ] Assistir a um dos vídeos recomendados
-   - [ ] Conversar com um colega sobre o que aprendi
-   - [ ] Tentar uma das atividades do 1º ano com minha turma
-   - [ ] Outro: _______________
+| Medo comum | Resposta baseada em evidências |
+|------------|-------------------------------|
+| "A IA vai substituir professores" | Não: professores fazem coisas que IA não consegue — empatia, cuidado, percepção de contexto emocional |
+| "Alunos vão usar IA para trapacear" | Isso já acontece; a resposta é letramento, não proibição |
+| "A IA é sempre certa" | Não: IA erra, alucina, tem vieses — verificação é essencial |
+| "Não preciso entender para usar" | Parcialmente verdadeiro: mas sem entendimento, não se percebe os erros |
+| "A IA vai controlar nossas mentes" | IAs atuais não têm objetivos próprios; os problemas existem mas são diferentes |
 
 ---
 
-## 📚 Leituras Recomendadas (selecione 1 ou 2)
+## Parte 4 — Vocabulário Essencial e Próximos Passos (1 hora)
 
-**Para quem quer entender mais sem entrar em técnico:**
-- "Armas de Destruição Matemática" — Cathy O'Neil (livro, tem tradução brasileira)
-- "Atlas of AI" — Kate Crawford (em inglês, mas há resumos em português)
+### 4.1 Glossário Mínimo do Professor de IA
 
-**Para quem quer o lado pedagógico:**
-- "Computação Desplugada" — atividades de computação sem computador (gratuito online)
-- CSTA K-12 CS Framework — referência internacional para ensino de computação
+| Termo | Definição para usar em sala |
+|-------|---------------------------|
+| **Inteligência Artificial** | Sistemas computacionais que executam tarefas que normalmente exigem inteligência humana |
+| **Machine Learning** | IA que aprende com exemplos em vez de ser programada com regras |
+| **Rede Neural** | Arquitetura computacional inspirada no cérebro — base de quase toda IA moderna |
+| **Dados de treinamento** | O conjunto de exemplos com que a IA aprende |
+| **Viés** | Quando a IA aprende padrões injustos dos dados e os reproduz |
+| **Alucinação** | Quando a IA inventa informações com aparência de verdade |
+| **Prompt** | A instrução ou pergunta que você dá à IA |
+| **LLM** | Modelo de Linguagem Grande — base de chatbots como ChatGPT, Claude |
+| **IA Generativa** | IA que cria conteúdo novo: texto, imagem, música, código |
+| **Deepfake** | Conteúdo de vídeo/áudio manipulado por IA para parecer real |
 
-**Vídeos curtos (YouTube, em português):**
-- Canal "Manual do Mundo" — vários vídeos sobre IA acessíveis
-- Canal "Nerdologia" — episódios sobre ética em tecnologia
+### 4.2 Três Princípios para Ensinar sobre IA com Confiança
 
-**Recursos do LABRIOT:**
-- Disponível na pasta `recursos-professores/formacao-continuada/videos/`
+**Princípio 1 — Curiosidade, não certeza**
+Você não precisa saber tudo. "Não sei — vamos descobrir juntos" é uma resposta legítima e pedagogicamente valiosa.
+
+**Princípio 2 — Ética no centro**
+Todo conteúdo técnico tem uma dimensão ética. A "Caixa de Ética" no final de cada atividade não é opcional — é onde acontece o aprendizado mais profundo.
+
+**Princípio 3 — Verificar sempre**
+Nunca assuma que a IA está certa. Ensinar o hábito de verificar é a habilidade mais importante que você pode transmitir.
+
+### 4.3 Para a Próxima Semana
+
+- [ ] Escolha 3 ferramentas de IA que você já usa e identifique como elas funcionam
+- [ ] Teste o Teachable Machine (teachablemachine.withgoogle.com) — sem conta, sem instalação
+- [ ] Leia o módulo 2 antes da próxima formação
 
 ---
 
-## ✅ Certificado de Conclusão
-
-Ao completar este módulo e as atividades indicadas, você pode solicitar um **Certificado de Participação em Formação Continuada** emitido pelo LABRIOT/UTFPR.
-
-Entre em contato via Issues ou Discussions do repositório para mais informações.
-
----
-
-*Módulo 1 de 4 | LABRIOT — UTFPR Campus Ponta Grossa | Licença CC BY-NC-SA 4.0*  
+*Módulo 1 de 4 | LABRIOT — UTFPR | Profa. Dra. Itamar Iliuk (Coordenadora) | CC BY-NC-SA 4.0*
 *Próximo módulo: "Módulo 2 — Conduzindo Atividades de IA em Sala com Segurança"*

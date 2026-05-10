@@ -1,70 +1,87 @@
-# 📋 CHANGELOG — IA para Todos
+# Changelog — IA para Todos
 
-Todas as mudanças notáveis neste projeto serão documentadas aqui.
+Todas as mudanças notáveis deste projeto são documentadas aqui.
 
-O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/), e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
+Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
 ---
 
-## [1.0.0] — 2025-05
+## [1.2.0] — 2025-05-08
+
+### Adicionado — Cobertura Completa 1º ao 9º Ano
+
+**Folhas do Aluno (novas):**
+- 1º ano: atividades 04 e 05
+- 2º ano: todas as 5 atividades
+- 3º ano: todas as 5 atividades
+- 4º ano: todas as 5 atividades
+- 5º ano: todas as 5 atividades
+- 6º ano: todas as 5 atividades
+- 7º ano: todas as 5 atividades
+- 8º ano: todas as 5 atividades
+- 9º ano: todas as 5 atividades
+
+**Roteiros do Professor (novos):**
+- 3º ano: atividades 02, 03, 04 e 05
+- 4º ano: atividades 01, 02, 04 e 05
+- 5º ano: atividades 01, 02, 03 e 04
+- 6º ano: atividades 01, 02 (viés em dados — 4 cenários brasileiros), 03, 04 e 05
+- 7º ano: todas as 5 atividades
+- 8º ano: atividades 01, 02, 03 (vieses cognitivos), 04 e 05
+- 9º ano: atividades 01, 02, 03 e 04
+
+**Exercícios de Fixação:**
+- Todos os 9 anos com exercícios completos
+
+**Formação Continuada:**
+- Módulo 02: Conduzindo atividades com segurança
+- Módulo 03: IA como ferramenta pedagógica
+- Módulo 04: Implementação e comunidade
+
+**Temas Transversais:**
+- Privacidade e LGPD (guia completo com integração por disciplina)
+- Combate à desinformação (6 tipos de desinformação, agências BR)
+- IA e Meio Ambiente (pegada digital, paradoxo climático)
+- Inclusão Digital (desigualdade digital no Brasil, soberania)
+
+**READMEs dos anos:**
+- 2º, 3º, 4º e 5º anos: READMEs pedagógicos completos
+- 6º, 7º, 8º e 9º anos: READMEs completos com contexto e orientações
+
+---
+
+## [1.1.0] — 2025-04-20
 
 ### Adicionado
-- Estrutura completa do repositório (1º ao 9º ano)
-- README institucional do projeto
-- Guia completo para professores (`docs/guia-professores.md`)
-- Guia para pais e responsáveis (`docs/guia-pais.md`)
-- Documento sobre LGPD e proteção de dados de crianças (`docs/lgpd-criancas.md`)
-- Guia de uso do pendrive bootável Multicortex (`docs/como-usar-pendrive.md`)
-- README do 1º ano com visão pedagógica completa
-- Atividade 01 completa para o 1º ano: "O Assistente da Turma"
-  - Roteiro detalhado para o professor
-  - Folha do aluno adaptada para 6-7 anos
-- Atividade 02 para o 6º ano: "A IA Aprende com Dados — Mas de Quem São?"
-  - Roteiro com 4 cenários investigativos sobre viés em IA
-- Rubrica de avaliação geral adaptável para todos os anos
-- Módulo 1 de Formação Continuada para professores: "Fundamentos de IA"
-- Guia de Ética em IA para temas transversais
-- Templates de Issues para GitHub (nova atividade, correção)
-- CONTRIBUTING.md completo
-- CODE_OF_CONDUCT.md
-- LICENSE (CC BY-NC-SA 4.0)
-- .gitignore configurado para o projeto
-- Script de setup do repositório
 
-### Estrutura
-- `anos-iniciais/` — 1º ao 5º ano com subpastas por ano
-- `anos-finais/` — 6º ao 9º ano com subpastas por ano
-- `temas-transversais/` — Ética, privacidade, fake news, meio ambiente, inclusão
-- `recursos-professores/` — Planos, rubricas, slides, formação
-- `docs/` — Guias gerais
-- `ferramentas/` — Scripts utilitários
-- `.github/` — Templates de Issues e PR
+- Estrutura base do repositório (9 anos, anos iniciais e finais)
+- 5 atividades completas do 1º ano (roteiros + folhas do aluno 02 e 03)
+- 5 atividades do 2º ano (roteiros)
+- Roteiro professor 1º ano atividades 02-05
+- README do 9º ano com Projeto Final template 4 semanas
+- Guia para professores (`docs/guia-professores.md`)
+- Guia para pais (`docs/guia-pais.md`)
+- LGPD para crianças (`docs/lgpd-criancas.md`)
+- Como usar o pendrive (`docs/como-usar-pendrive.md`)
+- Rubrica geral de avaliação
+- Módulo 01 de formação continuada (Fundamentos de IA)
+- Temas transversais: README base (ética)
+- Templates de Issues
 
 ---
 
-## Próximas versões planejadas
+## [1.0.0] — 2025-04-01
 
-### [1.1.0] — Em desenvolvimento
-- [ ] Atividades completas para todos os anos (1º ao 9º)
-- [ ] Exercícios de fixação por ano letivo
-- [ ] Planos de aula sequenciados por bimestre
-- [ ] Slides prontos para formação de professores
-- [ ] Versão em espanhol do README e guias principais
+### Lançamento Inicial
 
-### [1.2.0] — Planejado
-- [ ] Site GitHub Pages com navegação visual
-- [ ] Script de geração automática de PDFs das atividades
-- [ ] Integração com o sistema de navegação offline do pendrive Multicortex
-- [ ] Módulos 2, 3 e 4 de formação continuada
-- [ ] Atividades adaptadas para comunidades quilombolas e indígenas
-
-### [2.0.0] — Visão de longo prazo
-- [ ] Plataforma web de navegação das atividades
-- [ ] Sistema de contribuição facilitado (sem necessidade de conhecer GitHub)
-- [ ] Banco de relatos de professores com busca
-- [ ] Versão em línguas indígenas selecionadas
-- [ ] Integração com sistemas de gestão escolar municipais
+- Estrutura do repositório
+- README principal com trilha de aprendizagem
+- Licença CC BY-NC-SA 4.0
+- CONTRIBUTING.md e CODE_OF_CONDUCT.md
+- Exemplo de atividade completa (1º ano, ativ-01)
+- Setup script
 
 ---
 
-*Para sugerir funcionalidades ou reportar problemas: abra uma Issue neste repositório.*
+*Mantido pelo LABRIOT — UTFPR Campus Ponta Grossa*
+*Coordenação: Profa. Dra. Itamar Iliuk*

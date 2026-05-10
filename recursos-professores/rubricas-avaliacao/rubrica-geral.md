@@ -1,155 +1,128 @@
-# 📊 Rubrica de Avaliação — IA para Todos
+# 📊 Rubrica Geral de Avaliação — IA para Todos
 
-> *Instrumento de avaliação processual para atividades de letramento em IA*  
-> *Adaptável para qualquer ano do Ensino Fundamental*
-
----
-
-## Como usar esta rubrica
-
-Esta rubrica avalia **processo, participação e reflexão** — não produtos finais ou respostas certas. Ela foi desenhada para ser usada de forma flexível pelo professor, de acordo com o contexto de cada turma.
-
-**Formas de uso:**
-- **Observação em sala** — professor preenche durante ou após a atividade
-- **Autoavaliação** — aluno preenche sobre si mesmo (adaptado por idade)
-- **Avaliação entre pares** — alunos avaliam colegas (a partir do 6º ano)
-- **Portfólio** — registro acumulado ao longo do ano
+> Instrumento principal de avaliação do projeto. Use em conjunto com as rubricas por ciclo (`rubricas-por-ciclo.md`).
 
 ---
 
-## 🌱 Dimensão 1: Compreensão Conceitual
+## Princípios de Avaliação do Projeto
 
-*O aluno demonstra entendimento dos conceitos centrais de IA trabalhados?*
+**Este currículo não é avaliado por respostas certas.** O que avaliamos são competências:
+
+1. **Pensamento crítico:** A criança questiona informações sobre IA?
+2. **Raciocínio ético:** A criança consegue identificar dilemas e articular valores?
+3. **Transferência:** A criança consegue aplicar conceitos em contextos novos?
+4. **Comunicação:** A criança consegue explicar o que aprendeu?
+5. **Agência:** A criança sente que pode agir como cidadã digital?
+
+---
+
+## Rubrica de 5 Dimensões
+
+### Dimensão 1 — Compreensão Conceitual
+
+*"O aluno demonstra entender como a IA funciona em nível adequado à faixa etária?"*
 
 | Nível | Descrição |
 |-------|-----------|
-| ⭐⭐⭐ **Avançado** | Explica o conceito com suas próprias palavras e consegue dar exemplos originais além dos vistos em aula |
-| ⭐⭐ **Adequado** | Demonstra compreensão do conceito principal e usa os exemplos da aula corretamente |
-| ⭐ **Em desenvolvimento** | Compreende parcialmente — identifica o tema mas confunde detalhes |
-| 🔄 **Ainda não atingido** | Não demonstra ainda compreensão do conceito trabalhado |
+| **1 — Inicial** | Confunde IA com magia, robôs ficcionais ou onisciência. Não distingue IA de tecnologia em geral. |
+| **2 — Básico** | Sabe que IA é feita por pessoas e aprende com dados. Usa vocabulário básico (dados, treino, algoritmo). |
+| **3 — Proficiente** | Explica mecanismos com suas palavras. Dá exemplos do cotidiano. Conecta conceitos entre si. |
+| **4 — Avançado** | Transfere conceitos para situações novas. Identifica quando um argumento sobre IA está incorreto. Questiona explicações simplificadas. |
 
 ---
 
-## 🤔 Dimensão 2: Pensamento Crítico
+### Dimensão 2 — Pensamento Crítico Digital
 
-*O aluno questiona, levanta hipóteses e analisa as implicações do que aprende?*
+*"O aluno questiona ativamente informações, algoritmos e sistemas de IA?"*
 
 | Nível | Descrição |
 |-------|-----------|
-| ⭐⭐⭐ **Avançado** | Faz perguntas que vão além do conteúdo apresentado; identifica contradições; considera múltiplas perspectivas |
-| ⭐⭐ **Adequado** | Questiona as informações apresentadas; consegue identificar quando algo "não parece certo" |
-| ⭐ **Em desenvolvimento** | Aceita as informações, mas com algum questionamento quando instigado pelo professor |
-| 🔄 **Ainda não atingido** | Aceita passivamente todas as informações sem questionamento |
+| **1 — Inicial** | Aceita toda informação digital sem questionar. Não percebe quando a IA pode errar. |
+| **2 — Básico** | Questiona com mediação do professor. Sabe que a IA pode errar. |
+| **3 — Proficiente** | Questiona por iniciativa. Busca verificação. Identifica quando faltam informações. |
+| **4 — Avançado** | Desenvolve estratégias próprias de verificação. Ensina outros a questionar. Identifica manipulação e desinformação. |
 
 ---
 
-## 💬 Dimensão 3: Participação e Engajamento
+### Dimensão 3 — Raciocínio Ético
 
-*O aluno participa ativamente das discussões e atividades?*
+*"O aluno consegue identificar questões éticas relacionadas à IA e articular posições fundamentadas?"*
 
 | Nível | Descrição |
 |-------|-----------|
-| ⭐⭐⭐ **Avançado** | Participa com frequência, contribui com ideias próprias, escuta e respeita colegas, incentiva a participação de outros |
-| ⭐⭐ **Adequado** | Participa quando solicitado ou estimulado; respeita o espaço dos colegas |
-| ⭐ **Em desenvolvimento** | Participa raramente; prefere observar; às vezes dispersa |
-| 🔄 **Ainda não atingido** | Não participa das discussões; necessita suporte adicional |
+| **1 — Inicial** | Não demonstra percepção de dimensões éticas. Ou diz apenas "é bom" / "é ruim" sem elaborar. |
+| **2 — Básico** | Identifica questões éticas com apoio. Reproduz argumentos ouvidos em aula. |
+| **3 — Proficiente** | Identifica questões éticas de forma autônoma. Argumenta com base em princípios. Reconhece que há múltiplas perspectivas. |
+| **4 — Avançado** | Nuança casos complexos. Reconhece quando princípios entram em conflito. Propõe soluções éticas criativas. Defende posições mesmo sob pressão. |
 
 ---
 
-## 🛡️ Dimensão 4: Reflexão Ética
+### Dimensão 4 — Cidadania e Direitos Digitais
 
-*O aluno reflete sobre as implicações éticas, sociais e de privacidade da IA?*
+*"O aluno demonstra conhecer seus direitos digitais e como exercê-los?"*
 
 | Nível | Descrição |
 |-------|-----------|
-| ⭐⭐⭐ **Avançado** | Identifica quem pode ser beneficiado ou prejudicado; considera perspectivas de grupos marginalizados; propõe alternativas mais justas |
-| ⭐⭐ **Adequado** | Reconhece que a IA pode gerar problemas além dos benefícios; consegue identificar uma implicação ética quando guiado |
-| ⭐ **Em desenvolvimento** | Percebe que existem questões éticas mas tem dificuldade de articulá-las |
-| 🔄 **Ainda não atingido** | Ainda não demonstra percepção de implicações éticas |
+| **1 — Inicial** | Não tem consciência de direitos digitais. |
+| **2 — Básico** | Conhece que direitos existem. Sabe que existem leis (LGPD). |
+| **3 — Proficiente** | Conhece os principais direitos. Sabe como exercê-los. Faz escolhas conscientes sobre dados pessoais. |
+| **4 — Avançado** | Exerce direitos ativamente. Orienta outros. Engaja em questões coletivas de privacidade e equidade digital. |
 
 ---
 
-## 🔗 Dimensão 5: Conexão com o Cotidiano
+### Dimensão 5 — Produção e Criação
 
-*O aluno conecta o que aprendeu com sua própria vida e realidade?*
+*"(Para anos com atividades criativas — 5º, 8º, 9º ano) O aluno usa a IA como ferramenta com autoria clara e responsável?"*
 
 | Nível | Descrição |
 |-------|-----------|
-| ⭐⭐⭐ **Avançado** | Identifica espontaneamente exemplos de IA no seu cotidiano; consegue transferir o aprendizado para novos contextos |
-| ⭐⭐ **Adequado** | Reconhece exemplos de IA quando sugeridos; faz conexões com ajuda do professor |
-| ⭐ **Em desenvolvimento** | Tem dificuldade de reconhecer a IA fora do contexto escolar |
-| 🔄 **Ainda não atingido** | Não demonstra ainda conexão entre o conteúdo e o cotidiano |
+| **1 — Inicial** | Não usa IA como ferramenta, ou copia conteúdo sem adaptação ou atribuição. |
+| **2 — Básico** | Usa IA de forma passiva. Adapta superficialmente. |
+| **3 — Proficiente** | Usa IA com intencionalidade. Transforma com voz própria. Declara uso de IA com honestidade. |
+| **4 — Avançado** | Usa IA de forma criativa e crítica. Integra perspectiva única insubstituível. Reflete sobre o processo de criação. |
 
 ---
 
-## 📋 Ficha de Registro Individual
+## Como Usar a Rubrica
 
-```
-FICHA DE ACOMPANHAMENTO — IA PARA TODOS
-Aluno(a): _______________________________  Turma: ____  Ano: ______
+### Avaliação Formativa (durante o ano)
 
-Atividade: ______________________________  Data: ___/___/______
+Use a rubrica como ferramenta de observação, não de nota. A cada atividade, registre no portfólio do aluno em qual nível você o observou em cada dimensão relevante.
 
-DIMENSÕES:
-1. Compreensão Conceitual:  ⭐⭐⭐ / ⭐⭐ / ⭐ / 🔄
-2. Pensamento Crítico:      ⭐⭐⭐ / ⭐⭐ / ⭐ / 🔄
-3. Participação:            ⭐⭐⭐ / ⭐⭐ / ⭐ / 🔄
-4. Reflexão Ética:          ⭐⭐⭐ / ⭐⭐ / ⭐ / 🔄
-5. Conexão Cotidiano:       ⭐⭐⭐ / ⭐⭐ / ⭐ / 🔄
+**Foco nos anos iniciais (1º–3º):** Dimensões 1 e 3
+**Foco nos anos médios (4º–6º):** Dimensões 1, 2 e 3
+**Foco nos anos finais (7º–9º):** Todas as 5 dimensões
 
-Observações do professor:
-_______________________________________________________________
-_______________________________________________________________
+### Avaliação Somativa (ao final do ano)
 
-Próximos passos / Apoios necessários:
-_______________________________________________________________
-```
+Compare o nível observado no 1º bimestre com o do 4º bimestre para cada aluno. O crescimento é o indicador principal — não o nível absoluto.
+
+### Adaptação para Diferentes Realidades
+
+- **Turmas de alfabetização (1º–2º):** Use símbolos (sol, sol com nuvem, nuvem) em vez de números
+- **Turmas com necessidades especiais:** Adapte os descritores à forma de comunicação do aluno
+- **Avaliação coletiva:** Algumas atividades são mais bem avaliadas em grupos — ajuste os descritores para "o grupo demonstra..."
 
 ---
 
-## 🗂️ Versão Simplificada para Anos Iniciais (1º ao 3º ano)
+## Versão Simplificada — Anos Iniciais 1º e 2º
 
-Para crianças pequenas, simplifique para 3 níveis e use linguagem visual:
+Para uso com crianças pequenas — avaliação por observação:
 
-```
-😊 Ótimo — Entendeu e conseguiu explicar!
-🙂 Bom — Entendeu, mas precisou de ajuda
-😕 Ainda aprendendo — Vamos praticar mais juntos!
-```
-
-**Dimensões simplificadas:**
-- 🌟 Entendeu o que é IA?
-- 🤔 Fez perguntas?
-- 💬 Participou da roda de conversa?
-- ❤️ Pensou em como a tecnologia pode ajudar ou prejudicar as pessoas?
+| ☀️ Está aprendendo! | 🌤️ Está chegando lá! | 🌟 Já entendeu bem! |
+|:-------------------:|:--------------------:|:-------------------:|
+| Ainda tem dificuldade em reconhecer IA no cotidiano | Reconhece IA com apoio do professor | Reconhece e explica IA de forma autônoma |
+| Não percebe que IA erra | Sabe que IA pode errar quando o professor lembra | Lembra por conta própria que IA pode errar |
+| Não participa das reflexões éticas | Participa das reflexões com incentivo | Levanta questões éticas por iniciativa |
 
 ---
 
-## 📈 Acompanhamento Anual — Ficha da Turma
+## Nota sobre Comparação entre Alunos
 
-Use este quadro para ter uma visão geral da turma ao longo do ano:
+**Evite comparar alunos entre si neste currículo.** O letramento em IA depende muito do contexto de vida — acesso à tecnologia em casa, experiências familiares, exposição prévia. Um aluno que nunca teve celular pode ter insights éticos mais profundos do que outro que usa tecnologia constantemente, mas não reflexivamente.
 
-| Aluno | Ativ.1 | Ativ.2 | Ativ.3 | Ativ.4 | Ativ.5 | Evolução |
-|-------|--------|--------|--------|--------|--------|---------|
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-
-*Registre o nível predominante em cada atividade: A (Avançado), Ad (Adequado), D (Em Desenvolvimento), N (Não Atingido)*
+A avaliação mais significativa é sempre: **este aluno cresceu em relação a onde estava?**
 
 ---
 
-## 💡 Importante: Avaliação que Acolhe
-
-Esta rubrica **não é uma ferramenta de classificação ou seleção**. Ela serve para:
-
-- Identificar quem precisa de mais apoio
-- Registrar a evolução individual ao longo do tempo
-- Planejar intervenções pedagógicas
-- Comunicar o progresso às famílias de forma compreensível
-
-**Todo aluno que ainda não atingiu** um nível não está "reprovado" em IA — está em processo. Nossa responsabilidade é criar mais oportunidades de aprendizagem, não rotular.
-
----
-
-*Desenvolvido pelo LABRIOT — UTFPR Campus Ponta Grossa | Licença CC BY-NC-SA 4.0*
+*LABRIOT — UTFPR | Profa. Dra. Itamar Iliuk (Coordenadora) | CC BY-NC-SA 4.0*

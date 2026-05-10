@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Se você usar este material em pesquisa ou publicação, por favor cite conforme abaixo."
+type: software
+title: "IA para Todos — Currículo de Letramento em IA para Escolas Públicas Brasileiras"
+abstract: >
+  Repositório educacional aberto com currículo completo de letramento em Inteligência
+  Artificial para o Ensino Fundamental (1º ao 9º ano) de escolas públicas brasileiras.
+  Inclui roteiros para professores, folhas para alunos, exercícios de fixação, módulos
+  de formação continuada e temas transversais. Offline-first, alinhado à BNCC,
+  licença CC BY-NC-SA 4.0. Desenvolvido pelo LABRIOT (Laboratório de Robótica e IoT)
+  da UTFPR Campus Ponta Grossa em parceria com o projeto Multicortex.
+authors:
+  - family-names: "Iliuk"
+    given-names: "Itamar"
+    name-suffix: "Profa. Dra."
+    affiliation: "Universidade Tecnológica Federal do Paraná (UTFPR) — Campus Ponta Grossa"
+    orcid: ""
+    email: ""
+repository-code: "https://github.com/ItamarIliuk/ia-para-todos"
+url: "https://github.com/ItamarIliuk/ia-para-todos"
+license: CC-BY-NC-SA-4.0
+version: "1.2.0"
+date-released: "2025-05-08"
+keywords:
+  - "inteligência artificial"
+  - "educação básica"
+  - "letramento digital"
+  - "escolas públicas"
+  - "Brasil"
+  - "BNCC"
+  - "currículo"
+  - "ética em IA"
+  - "offline-first"
+  - "UTFPR"
+  - "LABRIOT"
+references:
+  - type: grant
+    title: "LABRIOT — Laboratório de Robótica e IoT, UTFPR Campus Ponta Grossa"
+    authors:
+      - family-names: "Iliuk"
+        given-names: "Itamar"
