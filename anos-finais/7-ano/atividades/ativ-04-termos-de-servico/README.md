@@ -12,8 +12,8 @@ has_children: true
 
 ## 📄 Materiais disponíveis
 
-- [👩‍🏫 Roteiro do Professor](para-o-professor) — guia completo de 50 minutos
-- [📝 Folha do Aluno](folha-do-aluno) — para imprimir e distribuir
+- [👩‍🏫 Roteiro do Professor](/ia-para-todos/anos-finais/7-ano/atividades/ativ-04-termos-de-servico/para-o-professor/) — guia completo de 50 minutos
+- [📝 Folha do Aluno](/ia-para-todos/anos-finais/7-ano/atividades/ativ-04-termos-de-servico/folha-do-aluno/) — para imprimir e distribuir
 
 ---
 

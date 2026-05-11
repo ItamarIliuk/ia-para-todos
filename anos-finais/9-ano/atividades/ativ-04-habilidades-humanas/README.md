@@ -12,8 +12,8 @@ has_children: true
 
 ## 📄 Materiais disponíveis
 
-- [👩‍🏫 Roteiro do Professor](para-o-professor) — guia completo de 50 minutos
-- [📝 Folha do Aluno](folha-do-aluno) — para imprimir e distribuir
+- [👩‍🏫 Roteiro do Professor](/ia-para-todos/anos-finais/9-ano/atividades/ativ-04-habilidades-humanas/para-o-professor/) — guia completo de 50 minutos
+- [📝 Folha do Aluno](/ia-para-todos/anos-finais/9-ano/atividades/ativ-04-habilidades-humanas/folha-do-aluno/) — para imprimir e distribuir
 
 ---
 

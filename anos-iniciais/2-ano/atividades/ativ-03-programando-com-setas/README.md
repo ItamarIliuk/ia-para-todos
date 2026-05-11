@@ -12,8 +12,8 @@ has_children: true
 
 ## 📄 Materiais disponíveis
 
-- [👩‍🏫 Roteiro do Professor](para-o-professor) — guia completo de 50 minutos
-- [📝 Folha do Aluno](folha-do-aluno) — para imprimir e distribuir
+- [👩‍🏫 Roteiro do Professor](/ia-para-todos/anos-iniciais/2-ano/atividades/ativ-03-programando-com-setas/para-o-professor/) — guia completo de 50 minutos
+- [📝 Folha do Aluno](/ia-para-todos/anos-iniciais/2-ano/atividades/ativ-03-programando-com-setas/folha-do-aluno/) — para imprimir e distribuir
 
 ---
 

@@ -12,8 +12,8 @@ has_children: true
 
 ## 📄 Materiais disponíveis
 
-- [👩‍🏫 Roteiro do Professor](para-o-professor) — guia completo de 50 minutos
-- [📝 Folha do Aluno](folha-do-aluno) — para imprimir e distribuir
+- [👩‍🏫 Roteiro do Professor](/ia-para-todos/anos-iniciais/4-ano/atividades/ativ-04-ia-nao-entende-piadas/para-o-professor/) — guia completo de 50 minutos
+- [📝 Folha do Aluno](/ia-para-todos/anos-iniciais/4-ano/atividades/ativ-04-ia-nao-entende-piadas/folha-do-aluno/) — para imprimir e distribuir
 
 ---
 

@@ -11,15 +11,15 @@ Criando com IA: histórias, arte e música. Autoria, direitos e ética criativa.
 
 ## 🗂️ Atividades
 
-- [Ativ. 01 — Histórias com IA](atividades/ativ-01-historias-com-ia/)
-- [Ativ. 02 — Arte Gerada por IA](atividades/ativ-02-arte-gerada-ia/)
-- [Ativ. 03 — Música e IA](atividades/ativ-03-musica-e-ia/)
-- [Ativ. 04 — Direitos Autorais na Era da IA](atividades/ativ-04-direitos-autorais-ia/)
-- [Ativ. 05 — Projeto Final](atividades/ativ-05-projeto-final/)
+- [Ativ. 01 — Histórias com IA](/ia-para-todos/anos-iniciais/5-ano/atividades/ativ-01-historias-com-ia/)
+- [Ativ. 02 — Arte Gerada por IA](/ia-para-todos/anos-iniciais/5-ano/atividades/ativ-02-arte-gerada-ia/)
+- [Ativ. 03 — Música e IA](/ia-para-todos/anos-iniciais/5-ano/atividades/ativ-03-musica-e-ia/)
+- [Ativ. 04 — Direitos Autorais na Era da IA](/ia-para-todos/anos-iniciais/5-ano/atividades/ativ-04-direitos-autorais-ia/)
+- [Ativ. 05 — Projeto Final](/ia-para-todos/anos-iniciais/5-ano/atividades/ativ-05-projeto-final/)
 
 ## 📝 Exercícios de Fixação
 
-- [Exercícios — 5º Ano](exercicios/)
+- [Exercícios de Fixação — 5º Ano](/ia-para-todos/anos-iniciais/5-ano/exercicios/exercicios-fixacao-5ano)
 
 ---
 

@@ -12,8 +12,8 @@ has_children: true
 
 ## 📄 Materiais disponíveis
 
-- [👩‍🏫 Roteiro do Professor](para-o-professor) — guia completo de 50 minutos
-- [📝 Folha do Aluno](folha-do-aluno) — para imprimir e distribuir
+- [👩‍🏫 Roteiro do Professor](/ia-para-todos/anos-iniciais/5-ano/atividades/ativ-04-direitos-autorais-ia/para-o-professor/) — guia completo de 50 minutos
+- [📝 Folha do Aluno](/ia-para-todos/anos-iniciais/5-ano/atividades/ativ-04-direitos-autorais-ia/folha-do-aluno/) — para imprimir e distribuir
 
 ---
 

@@ -11,12 +11,15 @@ Atividades para despertar a curiosidade sobre IA. Tudo offline, sem computadores
 
 ## 🗂️ Atividades
 
-- [Ativ. 04 — A IA no Caminho para a Escola](atividades/ativ-04-ia-no-caminho-escola/)
-- [Ativ. 05 — Quando a Máquina Erra](atividades/ativ-05-quando-maquina-erra/)
+- [Ativ. 01 — O Assistente da Turma](/ia-para-todos/anos-iniciais/1-ano/atividades/ativ-01-o-assistente-da-turma/)
+- [Ativ. 02 — A Máquina que Aprende Cores](/ia-para-todos/anos-iniciais/1-ano/atividades/ativ-02-maquina-aprende-cores/)
+- [Ativ. 03 — Quem Ensinou o Computador?](/ia-para-todos/anos-iniciais/1-ano/atividades/ativ-03-quem-ensinou-o-computador/)
+- [Ativ. 04 — A IA no Caminho para a Escola](/ia-para-todos/anos-iniciais/1-ano/atividades/ativ-04-ia-no-caminho-escola/)
+- [Ativ. 05 — Quando a Máquina Erra](/ia-para-todos/anos-iniciais/1-ano/atividades/ativ-05-quando-maquina-erra/)
 
 ## 📝 Exercícios de Fixação
 
-- [Exercícios — 1º Ano](exercicios/)
+- [Exercícios de Fixação — 1º Ano](/ia-para-todos/anos-iniciais/1-ano/exercicios/exercicios-fixacao-1ano)
 
 ---
 

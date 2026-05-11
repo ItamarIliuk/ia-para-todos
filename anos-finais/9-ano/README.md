@@ -11,15 +11,15 @@ has_children: true
 
 ## 🗂️ Atividades
 
-- [Ativ. 01 — A IA no Tribunal](atividades/ativ-01-ia-no-tribunal/)
-- [Ativ. 02 — Regulando a IA](atividades/ativ-02-regulando-a-ia/)
-- [Ativ. 03 — IA e Minha Profissão](atividades/ativ-03-ia-e-minha-profissao/)
-- [Ativ. 04 — Habilidades que a IA Não Tem](atividades/ativ-04-habilidades-humanas/)
-- [Ativ. 05 — Projeto Final: IA para Minha Comunidade](atividades/ativ-05-projeto-final-comunidade/)
+- [Ativ. 01 — A IA no Tribunal](/ia-para-todos/anos-finais/9-ano/atividades/ativ-01-ia-no-tribunal/)
+- [Ativ. 02 — Regulando a IA](/ia-para-todos/anos-finais/9-ano/atividades/ativ-02-regulando-a-ia/)
+- [Ativ. 03 — IA e Minha Profissão](/ia-para-todos/anos-finais/9-ano/atividades/ativ-03-ia-e-minha-profissao/)
+- [Ativ. 04 — Habilidades que a IA Não Tem](/ia-para-todos/anos-finais/9-ano/atividades/ativ-04-habilidades-humanas/)
+- [Ativ. 05 — Projeto Final: IA para Minha Comunidade](/ia-para-todos/anos-finais/9-ano/atividades/ativ-05-projeto-final-comunidade/)
 
 ## 📝 Exercícios de Fixação
 
-- [Exercícios — 9º Ano](exercicios/)
+- [Exercícios de Fixação — 9º Ano](/ia-para-todos/anos-finais/9-ano/exercicios/exercicios-fixacao-9ano)
 
 ---
 
