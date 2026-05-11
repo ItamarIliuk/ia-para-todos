@@ -1,0 +1,38 @@
+title: "IA para Todos"
+description: "Currículo de Letramento em IA para Escolas Públicas Brasileiras — 1º ao 9º ano"
+author: "Profa. Dra. Itamar Iliuk — LABRIOT/UTFPR"
+baseurl: "/ia-para-todos"
+url: "https://itamariliuk.github.io"
+
+# Tema com navegação lateral e busca
+remote_theme: just-the-docs/just-the-docs
+
+# Configurações do tema
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+# Links do cabeçalho
+aux_links:
+  "GitHub":
+    - "https://github.com/ItamarIliuk/ia-para-todos"
+  "LABRIOT/UTFPR":
+    - "https://www.utfpr.edu.br"
+
+aux_links_new_tab: true
+
+# Rodapé
+footer_content: "© LABRIOT — UTFPR Campus Ponta Grossa | Profa. Dra. Itamar Iliuk | <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a>"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Excluir pastas que não são páginas
+exclude:
+  - "*.sh"
+  - "ferramentas/"
+  - "node_modules/"
+  - "Gemfile"
+  - "Gemfile.lock"
