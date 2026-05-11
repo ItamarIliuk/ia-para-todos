@@ -1,3 +1,8 @@
+---
+title: "Como Contribuir"
+parent: "Documentação"
+nav_order: 5
+---
 # 🤝 Como Contribuir com o IA para Todos
 
 Bem-vinda(o)! Este projeto vive e cresce com a contribuição de educadores, pesquisadores e entusiastas de educação. Toda ajuda é bem-vinda — desde uma correção de digitação até uma atividade completa nova.

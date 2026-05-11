@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 03 — Reconhecimento Facial"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 03: "Reconhecimento Facial — Incrível e Perigoso"
 
 **Ano:** 3º ano | **Duração:** 50 min | **Offline:** ✅ Total

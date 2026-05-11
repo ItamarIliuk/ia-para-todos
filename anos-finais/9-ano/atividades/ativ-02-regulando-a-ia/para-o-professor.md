@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 02 — Regulando a IA"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "Regulando a IA — O Debate"
 
 **Ano:** 9º ano | **Duração:** 50 min | **Offline:** ✅ Total

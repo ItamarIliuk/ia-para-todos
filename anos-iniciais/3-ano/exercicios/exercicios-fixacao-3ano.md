@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 3º Ano"
+grand_parent: "Anos Iniciais (1º ao 5º)"
+parent: "3º Ano — Como a IA Vê"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 3º Ano
 ### IA para Todos — Como a IA Vê o Mundo
 

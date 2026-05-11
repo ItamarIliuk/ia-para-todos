@@ -1,3 +1,8 @@
+---
+title: "Slides Prontos"
+parent: "Recursos para Professores"
+nav_order: 5
+---
 # 🖥️ Slides Prontos — Guia de Uso
 
 > Esta pasta contém arquivos de slides para apresentações dos módulos de formação continuada e para uso em sala de aula.

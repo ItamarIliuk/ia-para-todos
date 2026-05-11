@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 2º Ano"
+grand_parent: "Anos Iniciais (1º ao 5º)"
+parent: "2º Ano — Jogos e Algoritmos"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 2º Ano
 ### IA para Todos — Jogos, Regras e Algoritmos
 

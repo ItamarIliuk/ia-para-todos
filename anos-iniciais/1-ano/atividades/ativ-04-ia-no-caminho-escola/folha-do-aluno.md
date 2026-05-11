@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "1º Ano — O que é IA?"
+parent: "Ativ. 04 — A IA no Caminho para a Escola"
+nav_order: 2
+---
 # 🗺️ A IA no Caminho para a Escola
 ### Atividade 4 — 1º Ano
 

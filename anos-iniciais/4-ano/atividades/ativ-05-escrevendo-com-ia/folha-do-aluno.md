@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 05 — Escrevendo com IA"
+nav_order: 2
+---
 # ✍️ Escrevendo com IA — Eu Decido, Ela Ajuda
 ### Atividade 5 — 4º Ano (Encerramento)
 

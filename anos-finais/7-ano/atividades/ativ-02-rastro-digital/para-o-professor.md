@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 02 — Rastreando o Rastro Digital"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "Rastreando o Rastro Digital"
 
 **Ano:** 7º ano | **Duração:** 50 min | **Offline:** ✅ Total

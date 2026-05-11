@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "2º Ano — Jogos e Algoritmos"
+parent: "Ativ. 02 — As Regras do Inimigo"
+nav_order: 2
+---
 # 🎮 As Regras do Inimigo
 ### Atividade 2 — 2º Ano
 

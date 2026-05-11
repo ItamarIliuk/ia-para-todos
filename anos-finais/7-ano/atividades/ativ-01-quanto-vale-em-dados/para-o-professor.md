@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 01 — Quanto Você Vale em Dados?"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 01: "Quanto Você Vale em Dados?"
 
 **Ano:** 7º ano | **Duração:** 50 minutos | **Recursos:** Nenhum | **Offline:** ✅ Total

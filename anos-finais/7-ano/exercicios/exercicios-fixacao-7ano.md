@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 7º Ano"
+grand_parent: "Anos Finais (6º ao 9º)"
+parent: "7º Ano — Privacidade Digital"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 7º Ano
 ### IA para Todos — Privacidade, Dados e Você
 

@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 02 — Viés em Dados"
+nav_order: 2
+---
 # ⚖️ A IA Aprende com Dados — Mas de Quem?
 ### Atividade 2 — 6º Ano
 

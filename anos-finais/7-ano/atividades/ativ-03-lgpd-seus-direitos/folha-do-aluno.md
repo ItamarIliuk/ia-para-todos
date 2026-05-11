@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 03 — A LGPD e Seus Direitos"
+nav_order: 2
+---
 # 🏛️ A LGPD e Seus Direitos
 ### Atividade 3 — 7º Ano
 

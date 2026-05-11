@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 02 — Rastreando o Rastro Digital"
+nav_order: 2
+---
 # 👣 Rastreando o Rastro Digital
 ### Atividade 2 — 7º Ano
 

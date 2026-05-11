@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 4º Ano"
+grand_parent: "Anos Iniciais (1º ao 5º)"
+parent: "4º Ano — IA que Lê e Escreve"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 4º Ano
 ### IA para Todos — IA que Lê, Escreve e Conversa
 

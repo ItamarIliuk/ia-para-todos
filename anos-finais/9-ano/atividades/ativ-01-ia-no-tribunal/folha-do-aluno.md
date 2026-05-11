@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 01 — A IA no Tribunal"
+nav_order: 2
+---
 # ⚖️ A IA no Tribunal — Casos Reais
 ### Atividade 1 — 9º Ano
 

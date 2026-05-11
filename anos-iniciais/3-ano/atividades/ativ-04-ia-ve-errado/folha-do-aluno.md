@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 04 — Quando a IA Vê Errado"
+nav_order: 2
+---
 # 🔍 Quando a IA Vê Errado
 ### Atividade 4 — 3º Ano
 

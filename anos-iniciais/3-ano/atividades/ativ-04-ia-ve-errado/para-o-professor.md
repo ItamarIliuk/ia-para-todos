@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 04 — Quando a IA Vê Errado"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 04: "Quando a IA Vê Errado"
 
 **Ano:** 3º ano | **Duração:** 50 min | **Offline:** ✅ Total (com imagens impressas)

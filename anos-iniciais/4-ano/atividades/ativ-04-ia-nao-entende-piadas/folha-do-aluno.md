@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 04 — A IA Não Entende Piadas"
+nav_order: 2
+---
 # 😂 A IA Não Entende Piadas
 ### Atividade 4 — 4º Ano
 

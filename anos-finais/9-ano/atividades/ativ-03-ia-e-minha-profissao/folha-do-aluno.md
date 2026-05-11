@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 03 — IA e Minha Profissão"
+nav_order: 2
+---
 # 💼 IA e Minha Profissão dos Sonhos
 ### Atividade 3 — 9º Ano
 

@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 02 — Detetives de Fake News"
+nav_order: 2
+---
 # 🕵️ Detetives de Fake News
 ### Atividade 2 — 8º Ano
 

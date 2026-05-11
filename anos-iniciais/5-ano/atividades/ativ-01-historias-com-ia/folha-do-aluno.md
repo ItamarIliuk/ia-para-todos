@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 01 — Histórias com IA"
+nav_order: 2
+---
 # 📖 Histórias em Colaboração com a IA
 ### Atividade 1 — 5º Ano
 

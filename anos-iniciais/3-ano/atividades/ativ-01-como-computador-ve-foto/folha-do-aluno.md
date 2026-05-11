@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 01 — Como o Computador Vê uma Foto?"
+nav_order: 2
+---
 # 🔢 Como o Computador Vê uma Foto?
 ### Atividade 1 — 3º Ano
 

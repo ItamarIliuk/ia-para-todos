@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 02 — Viés em Dados"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "A IA Aprende com Dados — Mas de Quem?"
 
 **Ano:** 6º ano | **Duração:** 50 minutos | **Recursos:** Nenhum | **Offline:** ✅ Total

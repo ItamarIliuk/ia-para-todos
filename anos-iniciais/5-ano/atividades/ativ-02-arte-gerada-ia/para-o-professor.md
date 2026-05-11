@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 02 — Arte Gerada por IA"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "Arte Gerada por IA — Quem é o Artista?"
 
 **Ano:** 5º ano | **Duração:** 50 min | **Offline:** ✅ Total (imagens impressas)

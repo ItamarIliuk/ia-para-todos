@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 03 — Música e IA"
+nav_order: 2
+---
 # 🎵 Música e IA — Padrões que Viram Sons
 ### Atividade 3 — 5º Ano
 

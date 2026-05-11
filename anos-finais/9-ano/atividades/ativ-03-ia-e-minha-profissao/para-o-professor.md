@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 03 — IA e Minha Profissão"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 03: "IA e Minha Profissão dos Sonhos"
 
 **Ano:** 9º ano | **Duração:** 50 min | **Offline:** ✅ Total

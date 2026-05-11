@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 03 — Coletando Dados com Responsabilidade"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 03: "Coletando Dados com Responsabilidade"
 
 **Ano:** 6º ano | **Duração:** 50 min | **Offline:** ✅ Total

@@ -1,3 +1,9 @@
+---
+title: "Módulo 1 — Fundamentos de IA"
+grand_parent: "Recursos para Professores"
+parent: "Formação Continuada"
+nav_order: 1
+---
 # 📚 Formação Continuada — Módulo 1: "Fundamentos de Inteligência Artificial para Educadores"
 
 > *"Você não precisa saber programar para ensinar sobre IA. Mas precisa entender o suficiente para fazer boas perguntas."*

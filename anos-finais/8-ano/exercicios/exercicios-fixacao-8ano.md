@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 8º Ano"
+grand_parent: "Anos Finais (6º ao 9º)"
+parent: "8º Ano — Fake News e Deepfakes"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 8º Ano
 ### IA para Todos — Fake News, Deepfakes e Pensamento Crítico
 

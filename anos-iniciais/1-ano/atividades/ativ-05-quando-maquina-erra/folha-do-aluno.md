@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "1º Ano — O que é IA?"
+parent: "Ativ. 05 — Quando a Máquina Erra"
+nav_order: 2
+---
 # ⚠️ Quando a Máquina Erra
 ### Atividade 5 — 1º Ano
 

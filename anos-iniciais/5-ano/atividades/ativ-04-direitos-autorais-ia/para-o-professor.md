@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 04 — Direitos Autorais na Era da IA"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 04: "Direitos Autorais na Era da IA"
 
 **Ano:** 5º ano | **Duração:** 50 min | **Offline:** ✅ Total

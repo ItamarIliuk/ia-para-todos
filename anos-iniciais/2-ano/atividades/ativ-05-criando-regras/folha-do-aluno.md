@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "2º Ano — Jogos e Algoritmos"
+parent: "Ativ. 05 — Criando Nossas Próprias Regras"
+nav_order: 2
+---
 # 🎲 Criando Nossas Próprias Regras
 ### Atividade 5 — 2º Ano (Encerramento)
 

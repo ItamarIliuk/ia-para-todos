@@ -1,3 +1,9 @@
+---
+title: "Resumo Coordenador"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 05 — Projeto Final: IA para Minha Comunidade"
+nav_order: 3
+---
 # 👩‍🏫 Para o Professor — Atividade 05: "PROJETO FINAL — IA para Minha Comunidade"
 
 **Ver roteiro completo em:** `anos-finais/9-ano/atividades/ativ-05-projeto-final-comunidade/para-o-professor.md`

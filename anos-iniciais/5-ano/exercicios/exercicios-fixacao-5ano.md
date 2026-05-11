@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 5º Ano"
+grand_parent: "Anos Iniciais (1º ao 5º)"
+parent: "5º Ano — Criando com IA"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 5º Ano
 ### IA para Todos — Criando com IA: Histórias, Arte e Música
 

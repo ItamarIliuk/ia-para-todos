@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 03 — Humano ou Máquina?"
+nav_order: 2
+---
 # 🕵️ Humano ou Máquina? Descobrindo o Autor
 ### Atividade 3 — 4º Ano
 

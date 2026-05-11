@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 03 — Reconhecimento Facial"
+nav_order: 2
+---
 # 👁️ Reconhecimento Facial — Incrível e Perigoso
 ### Atividade 3 — 3º Ano
 

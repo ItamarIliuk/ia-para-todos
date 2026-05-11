@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 02 — Treinando IA para Reconhecer Objetos"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "Treinando uma IA para Reconhecer Objetos"
 
 **Ano:** 3º ano | **Duração:** 50 minutos | **Recursos:** Computador com câmera + internet | **Offline:** ⚠️ Requer internet

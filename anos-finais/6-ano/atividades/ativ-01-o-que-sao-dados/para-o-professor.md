@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 01 — O que São Dados?"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 01: "O que São Dados? Uma Investigação"
 
 **Ano:** 6º ano | **Duração:** 50 minutos | **Recursos:** Nenhum | **Offline:** ✅ Total

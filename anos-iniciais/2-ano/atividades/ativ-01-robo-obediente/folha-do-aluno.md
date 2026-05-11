@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "2º Ano — Jogos e Algoritmos"
+parent: "Ativ. 01 — O Robô Obediente"
+nav_order: 2
+---
 # 🤖 O Robô Obediente
 ### Atividade 1 — 2º Ano
 

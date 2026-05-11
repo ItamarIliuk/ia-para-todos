@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 01 — Quanto Você Vale em Dados?"
+nav_order: 2
+---
 # 💰 Quanto Você Vale em Dados?
 ### Atividade 1 — 7º Ano
 

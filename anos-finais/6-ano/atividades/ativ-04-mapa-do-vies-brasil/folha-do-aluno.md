@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 04 — Mapa do Viés no Brasil"
+nav_order: 2
+---
 # 🗺️ O Mapa do Viés — Casos do Brasil
 ### Atividade 4 — 6º Ano
 

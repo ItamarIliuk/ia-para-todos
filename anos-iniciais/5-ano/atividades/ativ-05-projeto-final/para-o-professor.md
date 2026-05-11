@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 05 — Projeto Final"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 05: "Projeto Final — Minha Obra com IA"
 
 **Ano:** 5º ano | **Duração:** 100 min (2 aulas) | **Offline:** ⚠️ Parcial

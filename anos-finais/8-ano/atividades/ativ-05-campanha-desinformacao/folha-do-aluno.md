@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 05 — Campanha Contra Desinformação"
+nav_order: 2
+---
 # 📣 Campanha Escolar Contra Desinformação
 ### Atividade 5 — 8º Ano (Encerramento)
 

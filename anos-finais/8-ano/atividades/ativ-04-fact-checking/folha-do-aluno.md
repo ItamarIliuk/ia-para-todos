@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 04 — Fact-Checking com Ferramentas"
+nav_order: 2
+---
 # 🔧 Fact-Checking — Ferramentas e Técnicas
 ### Atividade 4 — 8º Ano
 

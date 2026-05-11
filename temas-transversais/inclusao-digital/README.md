@@ -1,3 +1,8 @@
+---
+title: "Inclusão Digital"
+parent: "Temas Transversais"
+nav_order: 4
+---
 # 🌐 Inclusão Digital — Guia Transversal
 
 > *"Acesso à internet não é luxo — é infraestrutura básica do século XXI, como água e energia elétrica."*

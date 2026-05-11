@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 01 — O que é um Deepfake?"
+nav_order: 2
+---
 # 🎭 O que é um Deepfake?
 ### Atividade 1 — 8º Ano
 

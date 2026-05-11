@@ -1,3 +1,9 @@
+---
+title: "Módulo 4 — Implementação e Comunidade"
+grand_parent: "Recursos para Professores"
+parent: "Formação Continuada"
+nav_order: 4
+---
 # 📚 Formação Continuada — Módulo 4: "IA, Escola e Comunidade — Implementação do Projeto"
 
 > *"O maior desafio não é aprender sobre IA — é implementar o aprendizado numa escola real, com recursos reais, para estudantes reais."*

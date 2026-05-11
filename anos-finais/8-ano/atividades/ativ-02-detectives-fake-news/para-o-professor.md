@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 02 — Detetives de Fake News"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "Detetives de Fake News"
 
 **Ano:** 8º ano | **Duração:** 50 min | **Offline:** ⚠️ Online útil

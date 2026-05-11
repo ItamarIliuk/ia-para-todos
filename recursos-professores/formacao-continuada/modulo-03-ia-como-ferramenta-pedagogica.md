@@ -1,3 +1,9 @@
+---
+title: "Módulo 3 — IA como Ferramenta Pedagógica"
+grand_parent: "Recursos para Professores"
+parent: "Formação Continuada"
+nav_order: 3
+---
 # 📚 Formação Continuada — Módulo 3: "IA como Ferramenta Pedagógica para o Professor"
 
 > *"A IA pode ser sua assistente de planejamento, seu corretor incansável, seu gerador de exemplos. Mas você é insubstituível como educador."*

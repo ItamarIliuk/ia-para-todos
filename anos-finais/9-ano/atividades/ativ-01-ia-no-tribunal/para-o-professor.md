@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 01 — A IA no Tribunal"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 01: "A IA no Tribunal — Casos Reais"
 
 **Ano:** 9º ano | **Duração:** 50 minutos | **Recursos:** Nenhum | **Offline:** ✅ Total

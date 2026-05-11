@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 04 — Termos de Serviço"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 04: "Termos de Serviço — O Que Você Assinou?"
 
 **Ano:** 7º ano | **Duração:** 50 min | **Offline:** ⚠️ Online útil para consultar termos reais

@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 01 — Complete a Frase"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 01: "Complete a Frase — Você vs. IA"
 
 **Ano:** 4º ano | **Duração:** 50 minutos | **Recursos:** Nenhum | **Offline:** ✅ Total

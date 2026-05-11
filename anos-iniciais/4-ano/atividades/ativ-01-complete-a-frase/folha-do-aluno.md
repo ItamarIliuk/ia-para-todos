@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 01 — Complete a Frase"
+nav_order: 2
+---
 # 🔤 Complete a Frase — Você vs. IA
 ### Atividade 1 — 4º Ano
 

@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 04 — Termos de Serviço"
+nav_order: 2
+---
 # 📄 Termos de Serviço — O Que Você Assinou?
 ### Atividade 4 — 7º Ano
 

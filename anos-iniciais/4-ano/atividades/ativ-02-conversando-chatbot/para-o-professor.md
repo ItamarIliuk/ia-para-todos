@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 02 — Conversando com Chatbots"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "Conversando com Chatbots — com Cuidado"
 
 **Ano:** 4º ano | **Duração:** 50 min | **Offline:** ⚠️ Requer internet

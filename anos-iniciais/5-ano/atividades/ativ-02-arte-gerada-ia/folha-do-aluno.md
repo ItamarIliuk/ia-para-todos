@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 02 — Arte Gerada por IA"
+nav_order: 2
+---
 # 🖼️ Arte Gerada por IA — Quem é o Artista?
 ### Atividade 2 — 5º Ano
 

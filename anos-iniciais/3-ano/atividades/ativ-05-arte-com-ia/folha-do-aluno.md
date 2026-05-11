@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 05 — Arte com IA"
+nav_order: 2
+---
 # 🎨 Arte com IA — Quem é o Artista?
 ### Atividade 5 — 3º Ano (Encerramento)
 

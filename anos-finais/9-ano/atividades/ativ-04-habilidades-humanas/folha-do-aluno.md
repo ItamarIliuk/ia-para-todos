@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 04 — Habilidades que a IA Não Tem"
+nav_order: 2
+---
 # 🌟 Habilidades que a IA Não Tem
 ### Atividade 4 — 9º Ano
 

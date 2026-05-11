@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 03 — Humano ou Máquina?"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 03: "Humano ou Máquina? Descobrindo o Autor"
 
 **Ano:** 4º ano | **Duração:** 50 min | **Offline:** ✅ Total (textos impressos)

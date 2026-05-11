@@ -1,3 +1,9 @@
+---
+title: "Rubricas por Ciclo"
+grand_parent: "Recursos para Professores"
+parent: "Avaliação"
+nav_order: 2
+---
 # 📊 Rubricas de Avaliação por Ciclo
 
 > Complemento à rubrica geral. Use estas versões simplificadas adaptadas à faixa etária.

@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 04 — Direitos Autorais na Era da IA"
+nav_order: 2
+---
 # ⚖️ Direitos Autorais na Era da IA
 ### Atividade 4 — 5º Ano
 

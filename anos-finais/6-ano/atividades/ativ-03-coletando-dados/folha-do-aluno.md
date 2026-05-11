@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 03 — Coletando Dados com Responsabilidade"
+nav_order: 2
+---
 # 📋 Coletando Dados com Responsabilidade
 ### Atividade 3 — 6º Ano
 

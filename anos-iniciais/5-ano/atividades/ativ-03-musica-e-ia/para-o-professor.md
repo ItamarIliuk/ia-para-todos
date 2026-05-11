@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 03 — Música e IA"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 03: "Música e IA — Padrões que Viram Sons"
 
 **Ano:** 5º ano | **Duração:** 50 min | **Offline:** ⚠️ Parcial

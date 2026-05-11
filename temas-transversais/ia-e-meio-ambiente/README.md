@@ -1,3 +1,8 @@
+---
+title: "IA e Meio Ambiente"
+parent: "Temas Transversais"
+nav_order: 3
+---
 # 🌿 IA e Meio Ambiente — Guia Transversal
 
 > *"A IA que responde suas perguntas consome energia. Muita energia. Isso não aparece na tela — mas aparece no planeta."*

@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 04 — Habilidades que a IA Não Tem"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 04: "Habilidades que a IA Não Tem"
 
 **Ano:** 9º ano | **Duração:** 50 min | **Offline:** ✅ Total

@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 05 — Guia de Privacidade"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 05: "Projeto — Guia de Privacidade para a Escola"
 
 **Ano:** 7º ano | **Duração:** 100 min (2 aulas) | **Offline:** ✅ Total

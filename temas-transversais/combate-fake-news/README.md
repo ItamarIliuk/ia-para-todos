@@ -1,3 +1,8 @@
+---
+title: "Combate à Desinformação"
+parent: "Temas Transversais"
+nav_order: 2
+---
 # 🔍 Combate à Desinformação — Guia Transversal
 
 > *"Em um mundo onde qualquer coisa pode ser fabricada, a habilidade mais valiosa não é saber muitas coisas — é saber verificar o que você sabe."*

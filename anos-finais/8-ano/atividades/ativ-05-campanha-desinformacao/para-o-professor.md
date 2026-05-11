@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 05 — Campanha Contra Desinformação"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 05: "Campanha Escolar Contra Desinformação"
 
 **Ano:** 8º ano | **Duração:** 100 min (2 aulas) | **Offline:** ✅ Total

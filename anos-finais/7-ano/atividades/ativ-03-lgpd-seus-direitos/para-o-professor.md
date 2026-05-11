@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 03 — A LGPD e Seus Direitos"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 03: "A LGPD e Seus Direitos"
 
 **Ano:** 7º ano | **Duração:** 50 min | **Offline:** ✅ Total

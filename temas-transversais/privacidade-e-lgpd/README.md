@@ -1,3 +1,8 @@
+---
+title: "Privacidade e LGPD"
+parent: "Temas Transversais"
+nav_order: 1
+---
 # 🔐 Privacidade e LGPD — Guia Transversal
 
 > *"Privacidade não é sobre ter algo a esconder. É sobre ter o poder de escolher o que você compartilha, com quem, e quando."*

@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "2º Ano — Jogos e Algoritmos"
+parent: "Ativ. 03 — Programando com Setas"
+nav_order: 2
+---
 # ➡️ Programando com Setas
 ### Atividade 3 — 2º Ano
 

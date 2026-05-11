@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 05 — Projeto Final"
+nav_order: 2
+---
 # 🌟 Projeto Final — Minha Obra com IA
 ### Atividade 5 — 5º Ano (Encerramento dos Anos Iniciais)
 

@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 01 — O que é um Deepfake?"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 01: "O que é um Deepfake?"
 
 **Ano:** 8º ano | **Duração:** 50 minutos | **Recursos:** Nenhum | **Offline:** ✅ Total

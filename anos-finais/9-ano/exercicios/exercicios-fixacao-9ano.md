@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 9º Ano"
+grand_parent: "Anos Finais (6º ao 9º)"
+parent: "9º Ano — Ética e Futuro"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 9º Ano
 ### IA para Todos — IA, Ética e o Futuro do Trabalho
 

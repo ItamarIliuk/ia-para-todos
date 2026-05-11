@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "7º Ano — Privacidade Digital"
+parent: "Ativ. 05 — Guia de Privacidade"
+nav_order: 2
+---
 # 📖 Projeto — Guia de Privacidade para a Escola
 ### Atividade 5 — 7º Ano (Encerramento)
 

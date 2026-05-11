@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "8º Ano — Fake News e Deepfakes"
+parent: "Ativ. 04 — Fact-Checking com Ferramentas"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 04: "Fact-Checking — Ferramentas e Técnicas"
 
 **Ano:** 8º ano | **Duração:** 50 min | **Offline:** ⚠️ Requer internet

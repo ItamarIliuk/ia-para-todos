@@ -1,3 +1,9 @@
+---
+title: "Planos Bimestrais — 1º ao 9º Ano"
+grand_parent: "Recursos para Professores"
+parent: "Planos de Aula"
+nav_order: 1
+---
 # 📅 Planos de Aula Bimestrais — IA para Todos
 
 > Sugestão de distribuição das atividades ao longo do ano letivo.

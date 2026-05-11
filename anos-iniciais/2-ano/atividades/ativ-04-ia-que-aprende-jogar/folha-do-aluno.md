@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "2º Ano — Jogos e Algoritmos"
+parent: "Ativ. 04 — A IA que Aprende a Jogar"
+nav_order: 2
+---
 # 🎯 A IA que Aprende a Jogar
 ### Atividade 4 — 2º Ano
 

@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "4º Ano — IA que Lê e Escreve"
+parent: "Ativ. 02 — Conversando com Chatbots"
+nav_order: 2
+---
 # 🤖 Conversando com Chatbots — com Cuidado
 ### Atividade 2 — 4º Ano
 

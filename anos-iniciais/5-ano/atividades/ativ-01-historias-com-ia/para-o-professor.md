@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+grand_parent: "5º Ano — Criando com IA"
+parent: "Ativ. 01 — Histórias com IA"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 01: "Histórias em Colaboração com a IA"
 
 **Ano:** 5º ano | **Duração:** 50 minutos | **Recursos:** Computador opcional | **Offline:** ⚠️ Parcial

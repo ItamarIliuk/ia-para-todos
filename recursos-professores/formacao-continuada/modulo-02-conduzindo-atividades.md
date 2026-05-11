@@ -1,3 +1,9 @@
+---
+title: "Módulo 2 — Conduzindo Atividades"
+grand_parent: "Recursos para Professores"
+parent: "Formação Continuada"
+nav_order: 2
+---
 # 📚 Formação Continuada — Módulo 2: "Conduzindo Atividades de IA em Sala com Segurança"
 
 > *"Conhecer o conteúdo é metade do trabalho. A outra metade é criar o ambiente certo para que a aprendizagem aconteça."*

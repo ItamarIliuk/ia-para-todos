@@ -1,3 +1,9 @@
+---
+title: "Rubrica Geral de Avaliação"
+grand_parent: "Recursos para Professores"
+parent: "Avaliação"
+nav_order: 1
+---
 # 📊 Rubrica Geral de Avaliação — IA para Todos
 
 > Instrumento principal de avaliação do projeto. Use em conjunto com as rubricas por ciclo (`rubricas-por-ciclo.md`).

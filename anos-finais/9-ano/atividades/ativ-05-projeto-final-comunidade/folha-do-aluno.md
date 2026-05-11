@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 05 — Projeto Final: IA para Minha Comunidade"
+nav_order: 2
+---
 # 🌍 Projeto Final — IA para Minha Comunidade
 ### Atividade 5 — 9º Ano (Encerramento do Ensino Fundamental)
 

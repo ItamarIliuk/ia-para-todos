@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "3º Ano — Como a IA Vê"
+parent: "Ativ. 02 — Treinando IA para Reconhecer Objetos"
+nav_order: 2
+---
 # 🎓 Treinando uma IA para Reconhecer Objetos
 ### Atividade 2 — 3º Ano
 

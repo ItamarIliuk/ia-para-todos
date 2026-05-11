@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 01 — O que São Dados?"
+nav_order: 2
+---
 # 📊 O que São Dados? Uma Investigação
 ### Atividade 1 — 6º Ano
 

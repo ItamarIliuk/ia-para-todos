@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "6º Ano — Dados e Viés"
+parent: "Ativ. 05 — Propondo uma IA Mais Justa"
+nav_order: 2
+---
 # 🌟 Propondo uma IA Mais Justa
 ### Atividade 5 — 6º Ano (Encerramento)
 

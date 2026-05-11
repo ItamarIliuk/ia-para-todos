@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+grand_parent: "9º Ano — Ética e Futuro"
+parent: "Ativ. 02 — Regulando a IA"
+nav_order: 2
+---
 # 🏛️ Regulando a IA — O Debate
 ### Atividade 2 — 9º Ano
 

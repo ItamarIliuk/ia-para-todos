@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 6º Ano"
+grand_parent: "Anos Finais (6º ao 9º)"
+parent: "6º Ano — Dados e Viés"
+nav_order: 90
+---
 # 📝 Exercícios de Fixação — 6º Ano
 ### IA para Todos — Como a IA Aprende com Dados
 
