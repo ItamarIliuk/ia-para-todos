@@ -1,11 +1,11 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "O Robô Obediente"
+parent: "Programando com Setas"
 grand_parent: "2º Ano — Jogos e Algoritmos"
 nav_order: 1
 ---
 
-# 👩‍🏫 Para o Professor — O Robô Obediente
+# 👩‍🏫 Para o Professor — Programando com Setas
 
 **Ano:** 2º Ano | **Duração:** 50 min | **Offline:** ✅ Total
 
@@ -13,7 +13,7 @@ nav_order: 1
 
 ## 📋 Resumo
 
-> Uma criança vira o 'robô' e só pode se mover com instruções precisas de um 'programador'. Descobrem que computadores não entendem instruções vagas.
+> Com uma grade 5x5 no chão, as crianças programam o caminho de um robô usando setas — introduzindo sequência, loop e condição de forma desplugada.
 
 ---
 
@@ -29,7 +29,7 @@ nav_order: 1
 
 Esta atividade foi desenvolvida em detalhe no arquivo de roteiro do módulo 2º Ano.
 
-**Consulte o roteiro completo em:** `anos-iniciais/2-ano/atividades/ativ-01-robo-obediente/para-o-professor.md`
+**Consulte o roteiro completo em:** `anos-iniciais/2-ano/atividades/ativ-03-programando-com-setas/para-o-professor.md`
 
 > **Duração:** 50 minutos | **Recursos:** Ver roteiro | **Offline:** ✅ Total
 

@@ -1,50 +1,28 @@
-# 👩‍🏫 Para o Professor — Atividade 01: "Como o Computador Vê uma Foto?"
+---
+title: "👩‍🏫 Roteiro do Professor"
+parent: "Como o Computador Vê uma Foto?"
+grand_parent: "3º Ano — Como a IA Vê"
+nav_order: 1
+---
 
-**Ano:** 3º ano | **Duração:** 50 minutos | **Recursos:** Grade de pixels impressa ou no quadro | **Offline:** ✅ Total
+# 👩‍🏫 Para o Professor — Como o Computador Vê uma Foto?
+
+**Ano:** 3º Ano | **Duração:** 50 min | **Offline:** ✅ Total
 
 ---
 
-## 📋 Resumo Rápido
+## 📋 Resumo
 
-> As crianças codificam uma imagem simples em números (como um computador faz) e depois decodificam — descobrindo que para uma máquina, "ver" é na verdade "ler uma tabela de números". Uma das atividades mais "uau!" do currículo.
+> As crianças codificam uma imagem simples em números (como um computador faz) e depois decodificam — descobrindo que para uma máquina, 'ver' é ler uma tabela de números.
 
 ---
 
 ## 🎯 Objetivos
 
-- Compreender que imagens digitais são compostas de pixels (pontos)
+- Compreender que imagens digitais são compostas de pixels
 - Perceber que cada pixel tem um valor numérico que representa uma cor
 - Vivenciar o processo de codificação/decodificação de imagem
-- Conectar com a ideia de que a IA de visão "lê" esses números
-
----
-
-## 🛒 Materiais
-
-Imprima (ou desenhe no quadro) uma grade 8x8 como esta:
-
-```
-┌──┬──┬──┬──┬──┬──┬──┬──┐
-│  │  │  │  │  │  │  │  │
-├──┼──┼──┼──┼──┼──┼──┼──┤
-│  │  │  │  │  │  │  │  │
-├──┼──┼──┼──┼──┼──┼──┼──┤
-│  │  │  │  │  │  │  │  │
-├──┼──┼──┼──┼──┼──┼──┼──┤
-│  │  │  │  │  │  │  │  │
-├──┼──┼──┼──┼──┼──┼──┼──┤
-│  │  │  │  │  │  │  │  │
-├──┼──┼──┼──┼──┼──┼──┼──┤
-│  │  │  │  │  │  │  │  │
-├──┼──┼──┼──┼──┼──┼──┼──┤
-│  │  │  │  │  │  │  │  │
-├──┼──┼──┼──┼──┼──┼──┼──┤
-│  │  │  │  │  │  │  │  │
-└──┴──┴──┴──┴──┴──┴──┴──┘
-```
-
-- Lápis preto e lápis branco (ou usar caneta e deixar em branco)
-- Opcional: papel quadriculado (cada quadrado = 1 pixel)
+- Conectar com a ideia de que a IA de visão 'lê' esses números
 
 ---
 
@@ -52,17 +30,13 @@ Imprima (ou desenhe no quadro) uma grade 8x8 como esta:
 
 ### 🔵 Abertura — "Zoom total!" (8 min)
 
-Se tiver projetor: mostre uma foto e dê zoom até aparecerem os pixels. Se não tiver: use a analogia do mosaico.
+Se tiver projetor: mostre uma foto e dê zoom até aparecerem os pixels. Se não tiver: use a analogia do mosaico de banheiro.
 
-> *"O que vocês veem quando a foto fica granulada, cheia de quadradinhos? Esses quadradinhos se chamam pixels — e é assim que o computador vê todas as imagens. Para ele, não existe 'rosto bonito' ou 'pôr do sol incrível' — existe uma tabela gigante de números.*
->
-> *Cada número diz qual é a cor de cada quadradinho. Zero pode ser branco, 255 pode ser preto, e os números no meio são os tons de cinza."*
+> *"Para o computador, não existe 'rosto bonito' ou 'pôr do sol incrível' — existe uma tabela gigante de números. Cada número diz qual é a cor de cada quadradinho (pixel)."*
 
----
+### 🟡 Decodificando a Imagem (15 min)
 
-### 🟡 Desenvolvimento — Parte 1: "Decodificando" (15 min)
-
-Escreva no quadro uma sequência de números 0 e 1 (imagem binária simples):
+Escreva no quadro a tabela de 0s e 1s (0 = branco, 1 = preto). As crianças pintam a grade de acordo. Ao final surge um rosto estilizado!
 
 ```
 Linha 1: 0 0 1 1 1 1 0 0
@@ -75,37 +49,20 @@ Linha 7: 0 0 1 1 1 1 0 0
 Linha 8: 0 0 0 1 1 0 0 0
 ```
 
-**Regra:** 0 = branco (deixar em branco), 1 = preto (pintar)
+### 🟢 Codificando (17 min)
 
-As crianças pintam a grade de acordo. Ao final, surge um rosto estilizado simples!
-
-> *"Isso é exatamente o que o computador faz — só que ao contrário. Ele pega a imagem e transforma em números. Depois, a IA analisa esses números para descobrir o que está na foto."*
-
----
-
-### 🟢 Desenvolvimento — Parte 2: "Codificando" (17 min)
-
-Agora ao contrário! Cada criança desenha algo simples na grade (coração, estrela, letra do nome) e depois cria a tabela de números correspondente.
-
-Troque com um colega: o colega decodifica a tabela do outro sem ver o desenho. Se chegou na imagem certa — funcionou!
-
-> *"Vocês acabaram de criar uma 'linguagem de imagem' que funciona como a dos computadores. A IA lê exatamente assim."*
-
----
+Ao contrário! Cada criança desenha algo simples na grade e cria a tabela de números correspondente. Troca com um colega que decodifica sem ver o desenho.
 
 ### 🔴 Caixa de Ética (10 min)
 
-> *"Se o computador vê rostos como tabelas de números, e consegue reconhecer um rosto único entre milhões... Imagine que o governo usa câmeras com reconhecimento facial em toda cidade. Ela fotografa você na rua e sabe que é você. Isso é bom para a segurança? Existe algum problema? Você gostaria de ser rastreado(a) assim?"*
+> *"Se o computador vê rostos como tabelas de números e consegue reconhecer um rosto único entre milhões... e o governo usa câmeras com reconhecimento facial em toda cidade? Isso é bom para a segurança? Existe algum problema?"*
 
 ---
 
 ## 📝 Avaliação
 
-- ✅ Decodificou corretamente a imagem em pixels?
-- ✅ Conseguiu codificar seu próprio desenho em números?
-- ✅ Verbalizou a relação entre pixels e como a IA "enxerga"?
-- ✅ Participou da reflexão ética sobre reconhecimento facial?
+Decodificou corretamente? Conseguiu codificar seu desenho? Verbalizou a relação entre pixels e como a IA 'enxerga'?
 
 ---
 
-*LABRIOT — UTFPR | CC BY-NC-SA 4.0*
+*LABRIOT — UTFPR | Profa. Dra. Itamar Iliuk (Coordenadora) | CC BY-NC-SA 4.0*
