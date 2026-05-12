@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+parent: "Ativ. 02 — A Máquina que Aprende Cores"
+grand_parent: "1º Ano — O que é IA?"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 02: "A Máquina que Aprende Cores"
 
 **Ano:** 1º ano | **Duração:** 50 minutos | **Recursos:** Cartões coloridos (impressos ou recortados) | **Offline:** ✅ Total

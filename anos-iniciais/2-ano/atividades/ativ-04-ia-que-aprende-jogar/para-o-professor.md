@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "A IA que Aprende a Jogar"
+parent: "Ativ. 04 — A IA que Aprende a Jogar"
 grand_parent: "2º Ano — Jogos e Algoritmos"
 nav_order: 1
 ---

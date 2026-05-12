@@ -1,3 +1,9 @@
+---
+title: "👩‍🏫 Roteiro do Professor"
+parent: "Ativ. 01 — O Assistente da Turma"
+grand_parent: "1º Ano — O que é IA?"
+nav_order: 1
+---
 # 👩‍🏫 Para o Professor — Atividade 01: "O Assistente da Turma"
 
 **Ano:** 1º ano | **Duração:** 50 minutos | **Recursos:** Nenhum | **Offline:** ✅ Total

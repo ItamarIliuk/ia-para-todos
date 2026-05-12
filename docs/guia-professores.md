@@ -1,3 +1,8 @@
+---
+title: "Guia para Professores"
+parent: "Documentação"
+nav_order: 10
+---
 # 👩‍🏫 Guia para Professores — IA para Todos
 
 > *"Você não precisa ser especialista em tecnologia para ensinar sobre Inteligência Artificial. Você já é especialista no que mais importa: conhecer seus alunos e acreditar neles."*

@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+parent: "Ativ. 01 — O Assistente da Turma"
+grand_parent: "1º Ano — O que é IA?"
+nav_order: 2
+---
 # 🤖 O Assistente da Turma
 ### Atividade 1 — 1º Ano
 

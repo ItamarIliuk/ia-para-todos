@@ -1,3 +1,8 @@
+---
+title: "Ética em IA"
+parent: "Temas Transversais"
+nav_order: 5
+---
 # ⚖️ Ética em IA — Guia Transversal para Todos os Anos
 
 > *"Uma tecnologia que não é justa para todos não é progresso — é exclusão com código."*

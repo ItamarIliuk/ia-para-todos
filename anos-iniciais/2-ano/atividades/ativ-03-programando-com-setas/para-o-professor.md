@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Programando com Setas"
+parent: "Ativ. 03 — Programando com Setas"
 grand_parent: "2º Ano — Jogos e Algoritmos"
 nav_order: 1
 ---

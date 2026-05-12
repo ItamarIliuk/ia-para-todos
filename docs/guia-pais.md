@@ -1,3 +1,8 @@
+---
+title: "Guia para Pais e Responsáveis"
+parent: "Documentação"
+nav_order: 11
+---
 # 👨‍👩‍👧 Guia para Pais e Responsáveis — IA para Todos
 
 > *"Os filhos da gente aprendem mais sobre o mundo do que conseguimos imaginar. Nosso papel não é saber tudo — é estar perto enquanto eles descobrem."*

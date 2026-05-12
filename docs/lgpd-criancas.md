@@ -1,3 +1,8 @@
+---
+title: "LGPD e Crianças"
+parent: "Documentação"
+nav_order: 12
+---
 # 🛡️ LGPD e Proteção de Dados de Crianças — IA para Todos
 
 > *Lei Geral de Proteção de Dados (Lei nº 13.709/2018) — O que todo professor e pai precisa saber*

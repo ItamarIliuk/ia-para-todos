@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Criando Nossas Próprias Regras"
+parent: "Ativ. 05 — Criando Nossas Próprias Regras"
 grand_parent: "2º Ano — Jogos e Algoritmos"
 nav_order: 1
 ---

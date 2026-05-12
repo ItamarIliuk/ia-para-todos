@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "A IA no Caminho para a Escola"
+parent: "Ativ. 04 — A IA no Caminho para a Escola"
 grand_parent: "1º Ano — O que é IA?"
 nav_order: 1
 ---

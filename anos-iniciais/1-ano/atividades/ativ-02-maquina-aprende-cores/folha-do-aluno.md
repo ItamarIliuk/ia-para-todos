@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+parent: "Ativ. 02 — A Máquina que Aprende Cores"
+grand_parent: "1º Ano — O que é IA?"
+nav_order: 2
+---
 # 🌈 A Máquina que Aprende Cores
 ### Atividade 2 — 1º Ano
 

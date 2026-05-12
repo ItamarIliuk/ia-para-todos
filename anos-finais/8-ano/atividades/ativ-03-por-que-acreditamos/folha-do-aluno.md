@@ -1,7 +1,7 @@
 ---
 title: "📝 Folha do Aluno"
 grand_parent: "8º Ano — Fake News e Deepfakes"
-parent: "Ativ. 03 — Por que a Gente Acredita em Mentiras?"
+parent: "Ativ. 03 — Por que Acreditamos em Mentiras?"
 nav_order: 2
 ---
 # 🧠 Por que a Gente Acredita em Mentiras?

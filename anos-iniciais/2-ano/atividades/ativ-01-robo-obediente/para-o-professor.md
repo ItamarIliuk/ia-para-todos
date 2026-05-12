@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "O Robô Obediente"
+parent: "Ativ. 01 — O Robô Obediente"
 grand_parent: "2º Ano — Jogos e Algoritmos"
 nav_order: 1
 ---

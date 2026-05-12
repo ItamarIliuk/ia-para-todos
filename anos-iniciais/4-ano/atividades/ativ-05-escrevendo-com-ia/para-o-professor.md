@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Escrevendo com IA — Eu Decido, Ela Ajuda"
+parent: "Ativ. 05 — Escrevendo com IA"
 grand_parent: "4º Ano — IA que Lê e Escreve"
 nav_order: 1
 ---
