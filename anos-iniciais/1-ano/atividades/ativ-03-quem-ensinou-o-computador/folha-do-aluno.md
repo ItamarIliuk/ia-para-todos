@@ -1,3 +1,9 @@
+---
+title: "📝 Folha do Aluno"
+parent: "Ativ. 03 — Quem Ensinou o Computador?"
+grand_parent: "1º Ano — O que é IA?"
+nav_order: 2
+---
 # 🛠️ Quem Ensinou o Computador?
 ### Atividade 3 — 1º Ano
 

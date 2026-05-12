@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "O Mapa do Viés — Casos do Brasil"
+parent: "Ativ. 04 — Mapa do Viés no Brasil"
 grand_parent: "6º Ano — Dados e Viés"
 nav_order: 1
 ---

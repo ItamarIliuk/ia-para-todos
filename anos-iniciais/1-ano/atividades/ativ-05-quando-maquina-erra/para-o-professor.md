@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Quando a Máquina Erra"
+parent: "Ativ. 05 — Quando a Máquina Erra"
 grand_parent: "1º Ano — O que é IA?"
 nav_order: 1
 ---

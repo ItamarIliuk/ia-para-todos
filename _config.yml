@@ -29,10 +29,15 @@ footer_content: "© LABRIOT — UTFPR Campus Ponta Grossa | Profa. Dra. Itamar I
 plugins:
   - jekyll-seo-tag
 
-# Excluir pastas que não são páginas
+# Excluir arquivos que não são páginas do site
 exclude:
   - "*.sh"
   - "ferramentas/"
   - "node_modules/"
   - "Gemfile"
   - "Gemfile.lock"
+  - "CHANGELOG.md"
+  - "CODE_OF_CONDUCT.md"
+  - "CONTRIBUTING.md"
+  - "LICENSE"
+  - "fix_jekyll.py"

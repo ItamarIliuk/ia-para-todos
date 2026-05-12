@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "A IA Não Entende Piadas"
+parent: "Ativ. 04 — A IA Não Entende Piadas"
 grand_parent: "4º Ano — IA que Lê e Escreve"
 nav_order: 1
 ---

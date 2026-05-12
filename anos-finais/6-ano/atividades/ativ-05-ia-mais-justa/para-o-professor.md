@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Propondo uma IA Mais Justa"
+parent: "Ativ. 05 — Propondo uma IA Mais Justa"
 grand_parent: "6º Ano — Dados e Viés"
 nav_order: 1
 ---

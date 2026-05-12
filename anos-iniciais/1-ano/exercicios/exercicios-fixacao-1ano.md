@@ -1,3 +1,9 @@
+---
+title: "Exercícios de Fixação — 1º Ano"
+grand_parent: "Anos Iniciais (1º ao 5º)"
+parent: "1º Ano — O que é IA?"
+nav_order: 91
+---
 # 📝 Exercícios de Fixação — 1º Ano
 ### IA para Todos
 

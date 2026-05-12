@@ -1,3 +1,8 @@
+---
+title: "Como Usar o Pendrive"
+parent: "Documentação"
+nav_order: 13
+---
 # 💾 Como Usar o Pendrive Bootável — Projeto IA para Todos (Multicortex)
 
 > *Inteligência Artificial funcionando 100% offline, em qualquer computador, sem instalação*

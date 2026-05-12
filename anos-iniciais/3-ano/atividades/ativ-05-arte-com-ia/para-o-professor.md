@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Arte com IA"
+parent: "Ativ. 05 — Arte com IA"
 grand_parent: "3º Ano — Como a IA Vê"
 nav_order: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Como o Computador Vê uma Foto?"
+parent: "Ativ. 01 — Como o Computador Vê uma Foto?"
 grand_parent: "3º Ano — Como a IA Vê"
 nav_order: 1
 ---

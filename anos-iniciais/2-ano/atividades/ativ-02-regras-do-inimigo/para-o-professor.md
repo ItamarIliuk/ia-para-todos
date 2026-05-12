@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "As Regras do Inimigo"
+parent: "Ativ. 02 — As Regras do Inimigo"
 grand_parent: "2º Ano — Jogos e Algoritmos"
 nav_order: 1
 ---

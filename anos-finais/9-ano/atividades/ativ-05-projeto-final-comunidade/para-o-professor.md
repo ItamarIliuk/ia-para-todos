@@ -1,6 +1,6 @@
 ---
 title: "👩‍🏫 Roteiro do Professor"
-parent: "Projeto Final — IA para Minha Comunidade"
+parent: "Ativ. 05 — Projeto Final: IA para Minha Comunidade"
 grand_parent: "9º Ano — Ética e Futuro"
 nav_order: 1
 ---
