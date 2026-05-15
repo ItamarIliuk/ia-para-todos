@@ -316,7 +316,7 @@ R: Temos atividades 100% offline, com papel e dinâmicas em grupo. Nenhuma escol
 R: A licença CC BY-NC-SA não permite uso comercial. Para usos educacionais sem fins lucrativos, pode usar livremente citando a fonte.
 
 **P: Como posso contribuir com novas atividades?**
-R: Veja [`CONTRIBUTING.md`](../CONTRIBUTING.md) — é mais simples do que parece!
+R: Veja [`CONTRIBUTING.md`](https://github.com/ItamarIliuk/ia-para-todos/blob/main/CONTRIBUTING.md) — é mais simples do que parece!
 
 **P: O material está atualizado? A IA muda muito rápido...**
 R: Sim, sabemos que o campo evolui rapidamente. Por isso os fundamentos conceituais e éticos têm prioridade — eles mudam menos. Mas atualizamos regularmente. Veja o `CHANGELOG.md` para as últimas atualizações.
