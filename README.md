@@ -9,6 +9,8 @@
 
 **Uma iniciativa do [LABRIOT — Laboratório de Robótica e IoT (UTFPR)](https://utfpr.edu.br) em parceria com a [Multicortex](https://multicortex.com.br)**
 
+*Confira a página inicial do projeto: [https://itamariliuk.github.io/ia-para-todos/](https://itamariliuk.github.io/ia-para-todos/)*
+
 *Tornando a Inteligência Artificial acessível, ética e significativa para toda comunidade escolar brasileira*
 
 </div>
@@ -19,7 +21,7 @@
 
 O **IA para Todos** nasceu de um compromisso: nenhuma criança brasileira deve ficar de fora da revolução da Inteligência Artificial por falta de acesso a recursos de qualidade.
 
-Este repositório reúne um currículo completo, progressivo e gratuito de **letramento em IA generativa** para o Ensino Fundamental — do 1º ao 9º ano — desenvolvido especialmente para a realidade das escolas públicas municipais do Brasil.
+Este repositório reúne um currículo completo, progressivo e gratuito de **letramento em IA generativa** para o Ensino Fundamental — do 1º ao 9º ano — desenvolvido especialmente para a realidade das escolas públicas brasileiras.
 
 Todo o material é:
 - ✅ **Gratuito** — sem custo algum para escolas, professores, alunos e famílias
